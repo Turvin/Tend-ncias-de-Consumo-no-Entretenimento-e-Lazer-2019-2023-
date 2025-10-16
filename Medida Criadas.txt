@@ -1,0 +1,28 @@
+Meidas criadas 
+
+Crescimento Pós-Pandemia % = 
+VAR PrePandemia = CALCULATE(
+    [Receita Total],
+    entretenimento_consumo_brasil[period] = "Pré-Pandemia"
+)
+VAR PosPandemia = CALCULATE(
+    [Receita Total],
+    entretenimento_consumo_brasil[period] = "Pós-Pandemia"
+)
+RETURN DIVIDE(PosPandemia - PrePandemia, PrePandemia)
+
+
+
+Ingressos Vendidos = SUM([tickets])
+
+Receita Pós-Pandemia = 
+CALCULATE([Receita Total], entretenimento_consumo_brasil[period] = "Pós-Pandemia")
+
+Receita Total = SUM([revenue])
+
+Ticket Médio = 
+DIVIDE(
+    [Receita Total],
+    [Ingressos Vendidos],
+    0
+)

@@ -1,0 +1,1501 @@
+﻿date,category,region,revenue,tickets,period
+2019-01-01,Cinema,Sudeste,1726005.03,36755,Pré-Pandemia
+2019-01-01,Cinema,Sul,1319136.33,44446,Pré-Pandemia
+2019-01-01,Cinema,Nordeste,1567712.46,36430,Pré-Pandemia
+2019-01-01,Cinema,Centro-Oeste,1262802.08,23343,Pré-Pandemia
+2019-01-01,Cinema,Norte,1415660.57,46484,Pré-Pandemia
+2019-01-01,Streaming,Sudeste,690668.7,16952,Pré-Pandemia
+2019-01-01,Streaming,Sul,723213.83,16681,Pré-Pandemia
+2019-01-01,Streaming,Nordeste,680601.03,18910,Pré-Pandemia
+2019-01-01,Streaming,Centro-Oeste,883425.73,28507,Pré-Pandemia
+2019-01-01,Streaming,Norte,831934.36,31520,Pré-Pandemia
+2019-01-01,Shows,Sudeste,1064260.73,39488,Pré-Pandemia
+2019-01-01,Shows,Sul,1551301.39,31497,Pré-Pandemia
+2019-01-01,Shows,Nordeste,967536.41,21252,Pré-Pandemia
+2019-01-01,Shows,Centro-Oeste,1006386.48,25251,Pré-Pandemia
+2019-01-01,Shows,Norte,1266430.95,38654,Pré-Pandemia
+2019-01-01,Parques,Sudeste,572844.48,14109,Pré-Pandemia
+2019-01-01,Parques,Sul,529263.72,9785,Pré-Pandemia
+2019-01-01,Parques,Nordeste,744299.87,14356,Pré-Pandemia
+2019-01-01,Parques,Centro-Oeste,714980.28,25854,Pré-Pandemia
+2019-01-01,Parques,Norte,461008.91,13263,Pré-Pandemia
+2019-01-01,Jogos Online,Sudeste,621817.98,12471,Pré-Pandemia
+2019-01-01,Jogos Online,Sul,620364.43,15028,Pré-Pandemia
+2019-01-01,Jogos Online,Nordeste,728267.9,26739,Pré-Pandemia
+2019-01-01,Jogos Online,Centro-Oeste,851815.64,27512,Pré-Pandemia
+2019-01-01,Jogos Online,Norte,710366.93,15374,Pré-Pandemia
+2019-02-01,Cinema,Sudeste,1738919.1,63881,Pré-Pandemia
+2019-02-01,Cinema,Sul,1233585.28,24239,Pré-Pandemia
+2019-02-01,Cinema,Nordeste,1433026.26,53259,Pré-Pandemia
+2019-02-01,Cinema,Centro-Oeste,1342369.9,28629,Pré-Pandemia
+2019-02-01,Cinema,Norte,1779986.57,45447,Pré-Pandemia
+2019-02-01,Streaming,Sudeste,802181.76,16774,Pré-Pandemia
+2019-02-01,Streaming,Sul,897576.51,22544,Pré-Pandemia
+2019-02-01,Streaming,Nordeste,780344.96,30290,Pré-Pandemia
+2019-02-01,Streaming,Centro-Oeste,599078.73,13587,Pré-Pandemia
+2019-02-01,Streaming,Norte,772937.75,14800,Pré-Pandemia
+2019-02-01,Shows,Sudeste,1098970.84,23055,Pré-Pandemia
+2019-02-01,Shows,Sul,942875.4,27985,Pré-Pandemia
+2019-02-01,Shows,Nordeste,1310973.03,26622,Pré-Pandemia
+2019-02-01,Shows,Centro-Oeste,1415075.19,28814,Pré-Pandemia
+2019-02-01,Shows,Norte,1301393.32,31602,Pré-Pandemia
+2019-02-01,Parques,Sudeste,737799.9,21361,Pré-Pandemia
+2019-02-01,Parques,Sul,493003.05,13038,Pré-Pandemia
+2019-02-01,Parques,Nordeste,730243.56,28968,Pré-Pandemia
+2019-02-01,Parques,Centro-Oeste,581425.71,18363,Pré-Pandemia
+2019-02-01,Parques,Norte,518374.43,9728,Pré-Pandemia
+2019-02-01,Jogos Online,Sudeste,680323.75,14761,Pré-Pandemia
+2019-02-01,Jogos Online,Sul,809404.25,15024,Pré-Pandemia
+2019-02-01,Jogos Online,Nordeste,664517.35,19529,Pré-Pandemia
+2019-02-01,Jogos Online,Centro-Oeste,545786.03,12609,Pré-Pandemia
+2019-02-01,Jogos Online,Norte,574721.82,17228,Pré-Pandemia
+2019-03-01,Cinema,Sudeste,1453457.54,49527,Pré-Pandemia
+2019-03-01,Cinema,Sul,1787611.43,55410,Pré-Pandemia
+2019-03-01,Cinema,Nordeste,1714016.52,53348,Pré-Pandemia
+2019-03-01,Cinema,Centro-Oeste,1485513.9,33785,Pré-Pandemia
+2019-03-01,Cinema,Norte,1562096.96,56376,Pré-Pandemia
+2019-03-01,Streaming,Sudeste,792452.08,25901,Pré-Pandemia
+2019-03-01,Streaming,Sul,752938.39,16611,Pré-Pandemia
+2019-03-01,Streaming,Nordeste,726149.69,22839,Pré-Pandemia
+2019-03-01,Streaming,Centro-Oeste,715999.42,15658,Pré-Pandemia
+2019-03-01,Streaming,Norte,918465.42,31535,Pré-Pandemia
+2019-03-01,Shows,Sudeste,982220.69,18624,Pré-Pandemia
+2019-03-01,Shows,Sul,1165604.96,26018,Pré-Pandemia
+2019-03-01,Shows,Nordeste,1304310.77,31898,Pré-Pandemia
+2019-03-01,Shows,Centro-Oeste,952817.68,18353,Pré-Pandemia
+2019-03-01,Shows,Norte,1365105.47,38813,Pré-Pandemia
+2019-03-01,Parques,Sudeste,634499.06,12222,Pré-Pandemia
+2019-03-01,Parques,Sul,718820.63,16241,Pré-Pandemia
+2019-03-01,Parques,Nordeste,475642.01,9155,Pré-Pandemia
+2019-03-01,Parques,Centro-Oeste,492471.47,17561,Pré-Pandemia
+2019-03-01,Parques,Norte,496950.67,16663,Pré-Pandemia
+2019-03-01,Jogos Online,Sudeste,761077.09,17080,Pré-Pandemia
+2019-03-01,Jogos Online,Sul,717531.64,22341,Pré-Pandemia
+2019-03-01,Jogos Online,Nordeste,742163.45,16682,Pré-Pandemia
+2019-03-01,Jogos Online,Centro-Oeste,796105.25,18933,Pré-Pandemia
+2019-03-01,Jogos Online,Norte,609084.92,18482,Pré-Pandemia
+2019-04-01,Cinema,Sudeste,1692471.75,46000,Pré-Pandemia
+2019-04-01,Cinema,Sul,1702466.64,34855,Pré-Pandemia
+2019-04-01,Cinema,Nordeste,1546957.8,38892,Pré-Pandemia
+2019-04-01,Cinema,Centro-Oeste,1533908.9,45894,Pré-Pandemia
+2019-04-01,Cinema,Norte,1436274.31,47381,Pré-Pandemia
+2019-04-01,Streaming,Sudeste,1028526.47,19611,Pré-Pandemia
+2019-04-01,Streaming,Sul,628197.99,11887,Pré-Pandemia
+2019-04-01,Streaming,Nordeste,935694.16,17357,Pré-Pandemia
+2019-04-01,Streaming,Centro-Oeste,786061.22,21505,Pré-Pandemia
+2019-04-01,Streaming,Norte,793482.64,26375,Pré-Pandemia
+2019-04-01,Shows,Sudeste,1425364.91,31067,Pré-Pandemia
+2019-04-01,Shows,Sul,1020750.06,23492,Pré-Pandemia
+2019-04-01,Shows,Nordeste,1127920.94,27816,Pré-Pandemia
+2019-04-01,Shows,Centro-Oeste,1414860.99,30818,Pré-Pandemia
+2019-04-01,Shows,Norte,1178420.66,34857,Pré-Pandemia
+2019-04-01,Parques,Sudeste,716155.53,14039,Pré-Pandemia
+2019-04-01,Parques,Sul,652536.02,16295,Pré-Pandemia
+2019-04-01,Parques,Nordeste,673933.97,14632,Pré-Pandemia
+2019-04-01,Parques,Centro-Oeste,734633.72,20906,Pré-Pandemia
+2019-04-01,Parques,Norte,490050.37,11572,Pré-Pandemia
+2019-04-01,Jogos Online,Sudeste,626293.38,15172,Pré-Pandemia
+2019-04-01,Jogos Online,Sul,694463.3,26798,Pré-Pandemia
+2019-04-01,Jogos Online,Nordeste,717198.81,20030,Pré-Pandemia
+2019-04-01,Jogos Online,Centro-Oeste,653552.04,13587,Pré-Pandemia
+2019-04-01,Jogos Online,Norte,692668.6,25133,Pré-Pandemia
+2019-05-01,Cinema,Sudeste,1382630.47,33543,Pré-Pandemia
+2019-05-01,Cinema,Sul,1680612.38,30964,Pré-Pandemia
+2019-05-01,Cinema,Nordeste,1398317.68,28621,Pré-Pandemia
+2019-05-01,Cinema,Centro-Oeste,1396310.82,51047,Pré-Pandemia
+2019-05-01,Cinema,Norte,1608842.78,32126,Pré-Pandemia
+2019-05-01,Streaming,Sudeste,801078.87,26527,Pré-Pandemia
+2019-05-01,Streaming,Sul,670599.32,16168,Pré-Pandemia
+2019-05-01,Streaming,Nordeste,887798.68,26582,Pré-Pandemia
+2019-05-01,Streaming,Centro-Oeste,955830.97,22960,Pré-Pandemia
+2019-05-01,Streaming,Norte,791572.47,24407,Pré-Pandemia
+2019-05-01,Shows,Sudeste,1285634.43,50552,Pré-Pandemia
+2019-05-01,Shows,Sul,906671.69,34577,Pré-Pandemia
+2019-05-01,Shows,Nordeste,1390015.98,35437,Pré-Pandemia
+2019-05-01,Shows,Centro-Oeste,1099779.51,28053,Pré-Pandemia
+2019-05-01,Shows,Norte,1091892.49,29546,Pré-Pandemia
+2019-05-01,Parques,Sudeste,647075.72,24548,Pré-Pandemia
+2019-05-01,Parques,Sul,614402.39,15324,Pré-Pandemia
+2019-05-01,Parques,Nordeste,683580.74,22871,Pré-Pandemia
+2019-05-01,Parques,Centro-Oeste,579713.23,22474,Pré-Pandemia
+2019-05-01,Parques,Norte,717760.86,16983,Pré-Pandemia
+2019-05-01,Jogos Online,Sudeste,723567.15,18674,Pré-Pandemia
+2019-05-01,Jogos Online,Sul,831124.24,22719,Pré-Pandemia
+2019-05-01,Jogos Online,Nordeste,888533.72,28780,Pré-Pandemia
+2019-05-01,Jogos Online,Centro-Oeste,537555.97,21042,Pré-Pandemia
+2019-05-01,Jogos Online,Norte,690307.61,25439,Pré-Pandemia
+2019-06-01,Cinema,Sudeste,1645126.18,64017,Pré-Pandemia
+2019-06-01,Cinema,Sul,1455221.43,50980,Pré-Pandemia
+2019-06-01,Cinema,Nordeste,1639431.0,31943,Pré-Pandemia
+2019-06-01,Cinema,Centro-Oeste,1761170.62,52633,Pré-Pandemia
+2019-06-01,Cinema,Norte,1543900.11,31377,Pré-Pandemia
+2019-06-01,Streaming,Sudeste,847775.34,23445,Pré-Pandemia
+2019-06-01,Streaming,Sul,790466.95,14936,Pré-Pandemia
+2019-06-01,Streaming,Nordeste,832995.36,17527,Pré-Pandemia
+2019-06-01,Streaming,Centro-Oeste,707261.09,13581,Pré-Pandemia
+2019-06-01,Streaming,Norte,905416.51,26167,Pré-Pandemia
+2019-06-01,Shows,Sudeste,1237535.34,48866,Pré-Pandemia
+2019-06-01,Shows,Sul,1085203.52,31383,Pré-Pandemia
+2019-06-01,Shows,Nordeste,1543775.21,36580,Pré-Pandemia
+2019-06-01,Shows,Centro-Oeste,1206242.29,35692,Pré-Pandemia
+2019-06-01,Shows,Norte,1238850.73,26042,Pré-Pandemia
+2019-06-01,Parques,Sudeste,708551.28,25546,Pré-Pandemia
+2019-06-01,Parques,Sul,493263.04,11890,Pré-Pandemia
+2019-06-01,Parques,Nordeste,684944.56,19279,Pré-Pandemia
+2019-06-01,Parques,Centro-Oeste,474928.14,9926,Pré-Pandemia
+2019-06-01,Parques,Norte,516192.19,18755,Pré-Pandemia
+2019-06-01,Jogos Online,Sudeste,603701.08,12158,Pré-Pandemia
+2019-06-01,Jogos Online,Sul,606816.33,22030,Pré-Pandemia
+2019-06-01,Jogos Online,Nordeste,729499.01,20197,Pré-Pandemia
+2019-06-01,Jogos Online,Centro-Oeste,876855.89,16066,Pré-Pandemia
+2019-06-01,Jogos Online,Norte,699069.86,25416,Pré-Pandemia
+2019-07-01,Cinema,Sudeste,1620129.01,42944,Pré-Pandemia
+2019-07-01,Cinema,Sul,1369665.81,34432,Pré-Pandemia
+2019-07-01,Cinema,Nordeste,1336440.14,50074,Pré-Pandemia
+2019-07-01,Cinema,Centro-Oeste,1173656.18,26388,Pré-Pandemia
+2019-07-01,Cinema,Norte,1626296.22,30192,Pré-Pandemia
+2019-07-01,Streaming,Sudeste,713123.24,13967,Pré-Pandemia
+2019-07-01,Streaming,Sul,895812.2,35317,Pré-Pandemia
+2019-07-01,Streaming,Nordeste,715253.58,13826,Pré-Pandemia
+2019-07-01,Streaming,Centro-Oeste,963054.88,35388,Pré-Pandemia
+2019-07-01,Streaming,Norte,960411.03,23601,Pré-Pandemia
+2019-07-01,Shows,Sudeste,1327446.69,34358,Pré-Pandemia
+2019-07-01,Shows,Sul,1272117.29,24447,Pré-Pandemia
+2019-07-01,Shows,Nordeste,995327.6,18600,Pré-Pandemia
+2019-07-01,Shows,Centro-Oeste,1270717.22,29142,Pré-Pandemia
+2019-07-01,Shows,Norte,1003534.93,25791,Pré-Pandemia
+2019-07-01,Parques,Sudeste,601890.87,22021,Pré-Pandemia
+2019-07-01,Parques,Sul,784689.44,17079,Pré-Pandemia
+2019-07-01,Parques,Nordeste,558288.17,11298,Pré-Pandemia
+2019-07-01,Parques,Centro-Oeste,538204.2,10285,Pré-Pandemia
+2019-07-01,Parques,Norte,753620.16,16113,Pré-Pandemia
+2019-07-01,Jogos Online,Sudeste,692466.92,13070,Pré-Pandemia
+2019-07-01,Jogos Online,Sul,614587.35,23830,Pré-Pandemia
+2019-07-01,Jogos Online,Nordeste,767511.38,14052,Pré-Pandemia
+2019-07-01,Jogos Online,Centro-Oeste,675572.2,18546,Pré-Pandemia
+2019-07-01,Jogos Online,Norte,870584.24,17360,Pré-Pandemia
+2019-08-01,Cinema,Sudeste,1439819.66,43365,Pré-Pandemia
+2019-08-01,Cinema,Sul,1566330.1,31715,Pré-Pandemia
+2019-08-01,Cinema,Nordeste,1977678.79,47469,Pré-Pandemia
+2019-08-01,Cinema,Centro-Oeste,1861912.03,36877,Pré-Pandemia
+2019-08-01,Cinema,Norte,1396030.33,48348,Pré-Pandemia
+2019-08-01,Streaming,Sudeste,909709.4,28554,Pré-Pandemia
+2019-08-01,Streaming,Sul,866571.24,24243,Pré-Pandemia
+2019-08-01,Streaming,Nordeste,788829.24,19425,Pré-Pandemia
+2019-08-01,Streaming,Centro-Oeste,850374.68,16817,Pré-Pandemia
+2019-08-01,Streaming,Norte,828007.68,16141,Pré-Pandemia
+2019-08-01,Shows,Sudeste,1004554.28,38841,Pré-Pandemia
+2019-08-01,Shows,Sul,1321928.29,28661,Pré-Pandemia
+2019-08-01,Shows,Nordeste,966589.65,38000,Pré-Pandemia
+2019-08-01,Shows,Centro-Oeste,1206011.76,32801,Pré-Pandemia
+2019-08-01,Shows,Norte,1376564.23,38834,Pré-Pandemia
+2019-08-01,Parques,Sudeste,669945.93,18158,Pré-Pandemia
+2019-08-01,Parques,Sul,703741.2,13158,Pré-Pandemia
+2019-08-01,Parques,Nordeste,652803.25,16417,Pré-Pandemia
+2019-08-01,Parques,Centro-Oeste,561656.11,10324,Pré-Pandemia
+2019-08-01,Parques,Norte,558075.24,12683,Pré-Pandemia
+2019-08-01,Jogos Online,Sudeste,551034.09,19089,Pré-Pandemia
+2019-08-01,Jogos Online,Sul,557709.84,19123,Pré-Pandemia
+2019-08-01,Jogos Online,Nordeste,628139.24,17759,Pré-Pandemia
+2019-08-01,Jogos Online,Centro-Oeste,747681.06,16605,Pré-Pandemia
+2019-08-01,Jogos Online,Norte,573612.23,21872,Pré-Pandemia
+2019-09-01,Cinema,Sudeste,1276630.84,42119,Pré-Pandemia
+2019-09-01,Cinema,Sul,1167716.06,30078,Pré-Pandemia
+2019-09-01,Cinema,Nordeste,1335245.16,33296,Pré-Pandemia
+2019-09-01,Cinema,Centro-Oeste,1270180.22,25931,Pré-Pandemia
+2019-09-01,Cinema,Norte,1281006.35,25016,Pré-Pandemia
+2019-09-01,Streaming,Sudeste,715061.8,21469,Pré-Pandemia
+2019-09-01,Streaming,Sul,933300.42,30564,Pré-Pandemia
+2019-09-01,Streaming,Nordeste,714456.4,18071,Pré-Pandemia
+2019-09-01,Streaming,Centro-Oeste,775981.03,19960,Pré-Pandemia
+2019-09-01,Streaming,Norte,683995.9,20999,Pré-Pandemia
+2019-09-01,Shows,Sudeste,1448997.64,35910,Pré-Pandemia
+2019-09-01,Shows,Sul,1017938.75,26493,Pré-Pandemia
+2019-09-01,Shows,Nordeste,1083407.59,32754,Pré-Pandemia
+2019-09-01,Shows,Centro-Oeste,945836.28,27287,Pré-Pandemia
+2019-09-01,Shows,Norte,1052724.75,36818,Pré-Pandemia
+2019-09-01,Parques,Sudeste,671079.88,14790,Pré-Pandemia
+2019-09-01,Parques,Sul,634305.05,22976,Pré-Pandemia
+2019-09-01,Parques,Nordeste,625449.33,13205,Pré-Pandemia
+2019-09-01,Parques,Centro-Oeste,503640.08,15028,Pré-Pandemia
+2019-09-01,Parques,Norte,617631.04,14662,Pré-Pandemia
+2019-09-01,Jogos Online,Sudeste,812157.19,18812,Pré-Pandemia
+2019-09-01,Jogos Online,Sul,557570.73,18846,Pré-Pandemia
+2019-09-01,Jogos Online,Nordeste,574252.14,18768,Pré-Pandemia
+2019-09-01,Jogos Online,Centro-Oeste,582388.77,11221,Pré-Pandemia
+2019-09-01,Jogos Online,Norte,647519.73,17354,Pré-Pandemia
+2019-10-01,Cinema,Sudeste,1389479.63,37619,Pré-Pandemia
+2019-10-01,Cinema,Sul,1880736.78,37985,Pré-Pandemia
+2019-10-01,Cinema,Nordeste,1239464.66,27507,Pré-Pandemia
+2019-10-01,Cinema,Centro-Oeste,1665795.25,39522,Pré-Pandemia
+2019-10-01,Cinema,Norte,1588574.2,51895,Pré-Pandemia
+2019-10-01,Streaming,Sudeste,748769.75,18613,Pré-Pandemia
+2019-10-01,Streaming,Sul,641883.06,14818,Pré-Pandemia
+2019-10-01,Streaming,Nordeste,791078.16,26698,Pré-Pandemia
+2019-10-01,Streaming,Centro-Oeste,807371.7,30404,Pré-Pandemia
+2019-10-01,Streaming,Norte,660692.43,24560,Pré-Pandemia
+2019-10-01,Shows,Sudeste,1223964.5,24829,Pré-Pandemia
+2019-10-01,Shows,Sul,1223959.86,25602,Pré-Pandemia
+2019-10-01,Shows,Nordeste,1209048.9,32366,Pré-Pandemia
+2019-10-01,Shows,Centro-Oeste,1363670.49,27318,Pré-Pandemia
+2019-10-01,Shows,Norte,1114496.78,23750,Pré-Pandemia
+2019-10-01,Parques,Sudeste,569389.83,21093,Pré-Pandemia
+2019-10-01,Parques,Sul,647669.96,12888,Pré-Pandemia
+2019-10-01,Parques,Nordeste,622531.39,20050,Pré-Pandemia
+2019-10-01,Parques,Centro-Oeste,484482.77,9800,Pré-Pandemia
+2019-10-01,Parques,Norte,625542.26,17490,Pré-Pandemia
+2019-10-01,Jogos Online,Sudeste,720420.8,14555,Pré-Pandemia
+2019-10-01,Jogos Online,Sul,657442.76,16909,Pré-Pandemia
+2019-10-01,Jogos Online,Nordeste,738769.41,18432,Pré-Pandemia
+2019-10-01,Jogos Online,Centro-Oeste,768398.6,21042,Pré-Pandemia
+2019-10-01,Jogos Online,Norte,820900.96,18773,Pré-Pandemia
+2019-11-01,Cinema,Sudeste,1628748.62,37160,Pré-Pandemia
+2019-11-01,Cinema,Sul,1241181.43,25423,Pré-Pandemia
+2019-11-01,Cinema,Nordeste,1556580.61,30040,Pré-Pandemia
+2019-11-01,Cinema,Centro-Oeste,1365521.01,39751,Pré-Pandemia
+2019-11-01,Cinema,Norte,1563551.9,60123,Pré-Pandemia
+2019-11-01,Streaming,Sudeste,896343.09,17472,Pré-Pandemia
+2019-11-01,Streaming,Sul,874288.54,30873,Pré-Pandemia
+2019-11-01,Streaming,Nordeste,727969.06,19718,Pré-Pandemia
+2019-11-01,Streaming,Centro-Oeste,728879.85,22865,Pré-Pandemia
+2019-11-01,Streaming,Norte,909101.94,20552,Pré-Pandemia
+2019-11-01,Shows,Sudeste,1267850.85,38946,Pré-Pandemia
+2019-11-01,Shows,Sul,1014850.49,19422,Pré-Pandemia
+2019-11-01,Shows,Nordeste,1171628.97,30150,Pré-Pandemia
+2019-11-01,Shows,Centro-Oeste,1126071.86,26442,Pré-Pandemia
+2019-11-01,Shows,Norte,1254974.32,49131,Pré-Pandemia
+2019-11-01,Parques,Sudeste,756081.73,18022,Pré-Pandemia
+2019-11-01,Parques,Sul,728986.02,15773,Pré-Pandemia
+2019-11-01,Parques,Nordeste,575341.54,13318,Pré-Pandemia
+2019-11-01,Parques,Centro-Oeste,646781.23,12196,Pré-Pandemia
+2019-11-01,Parques,Norte,638265.45,22476,Pré-Pandemia
+2019-11-01,Jogos Online,Sudeste,871970.69,30340,Pré-Pandemia
+2019-11-01,Jogos Online,Sul,871206.25,21477,Pré-Pandemia
+2019-11-01,Jogos Online,Nordeste,683983.08,25672,Pré-Pandemia
+2019-11-01,Jogos Online,Centro-Oeste,758931.56,30189,Pré-Pandemia
+2019-11-01,Jogos Online,Norte,649126.6,15785,Pré-Pandemia
+2019-12-01,Cinema,Sudeste,1526022.78,43098,Pré-Pandemia
+2019-12-01,Cinema,Sul,1541219.34,48560,Pré-Pandemia
+2019-12-01,Cinema,Nordeste,1272295.79,42002,Pré-Pandemia
+2019-12-01,Cinema,Centro-Oeste,1450881.48,27665,Pré-Pandemia
+2019-12-01,Cinema,Norte,1505740.45,34246,Pré-Pandemia
+2019-12-01,Streaming,Sudeste,769330.93,25356,Pré-Pandemia
+2019-12-01,Streaming,Sul,750975.89,20059,Pré-Pandemia
+2019-12-01,Streaming,Nordeste,879469.85,21951,Pré-Pandemia
+2019-12-01,Streaming,Centro-Oeste,674083.23,14192,Pré-Pandemia
+2019-12-01,Streaming,Norte,873571.97,28040,Pré-Pandemia
+2019-12-01,Shows,Sudeste,917070.58,23417,Pré-Pandemia
+2019-12-01,Shows,Sul,1004398.66,20810,Pré-Pandemia
+2019-12-01,Shows,Nordeste,1200387.28,31405,Pré-Pandemia
+2019-12-01,Shows,Centro-Oeste,1204242.32,40605,Pré-Pandemia
+2019-12-01,Shows,Norte,1286272.76,24095,Pré-Pandemia
+2019-12-01,Parques,Sudeste,531169.98,11985,Pré-Pandemia
+2019-12-01,Parques,Sul,477219.99,16076,Pré-Pandemia
+2019-12-01,Parques,Nordeste,665705.93,25790,Pré-Pandemia
+2019-12-01,Parques,Centro-Oeste,505683.51,11198,Pré-Pandemia
+2019-12-01,Parques,Norte,456478.16,9316,Pré-Pandemia
+2019-12-01,Jogos Online,Sudeste,695015.5,21621,Pré-Pandemia
+2019-12-01,Jogos Online,Sul,577770.99,12380,Pré-Pandemia
+2019-12-01,Jogos Online,Nordeste,848836.72,22994,Pré-Pandemia
+2019-12-01,Jogos Online,Centro-Oeste,638150.61,18883,Pré-Pandemia
+2019-12-01,Jogos Online,Norte,608318.73,22068,Pré-Pandemia
+2020-01-01,Cinema,Sudeste,1144881.97,37607,Pré-Pandemia
+2020-01-01,Cinema,Sul,1476984.2,28524,Pré-Pandemia
+2020-01-01,Cinema,Nordeste,1494297.79,45582,Pré-Pandemia
+2020-01-01,Cinema,Centro-Oeste,1516781.11,45905,Pré-Pandemia
+2020-01-01,Cinema,Norte,1481542.09,35647,Pré-Pandemia
+2020-01-01,Streaming,Sudeste,724849.49,13560,Pré-Pandemia
+2020-01-01,Streaming,Sul,720941.58,14121,Pré-Pandemia
+2020-01-01,Streaming,Nordeste,923928.33,18857,Pré-Pandemia
+2020-01-01,Streaming,Centro-Oeste,637509.96,19283,Pré-Pandemia
+2020-01-01,Streaming,Norte,849730.17,25957,Pré-Pandemia
+2020-01-01,Shows,Sudeste,1262616.08,23154,Pré-Pandemia
+2020-01-01,Shows,Sul,1047761.98,31588,Pré-Pandemia
+2020-01-01,Shows,Nordeste,1264122.29,44305,Pré-Pandemia
+2020-01-01,Shows,Centro-Oeste,1108250.76,26624,Pré-Pandemia
+2020-01-01,Shows,Norte,1399410.2,44863,Pré-Pandemia
+2020-01-01,Parques,Sudeste,462695.14,8898,Pré-Pandemia
+2020-01-01,Parques,Sul,669994.2,15576,Pré-Pandemia
+2020-01-01,Parques,Nordeste,539321.88,10286,Pré-Pandemia
+2020-01-01,Parques,Centro-Oeste,562661.35,13870,Pré-Pandemia
+2020-01-01,Parques,Norte,472800.8,10030,Pré-Pandemia
+2020-01-01,Jogos Online,Sudeste,668064.43,20644,Pré-Pandemia
+2020-01-01,Jogos Online,Sul,626645.61,17568,Pré-Pandemia
+2020-01-01,Jogos Online,Nordeste,671371.89,15988,Pré-Pandemia
+2020-01-01,Jogos Online,Centro-Oeste,742255.47,13977,Pré-Pandemia
+2020-01-01,Jogos Online,Norte,649030.77,25025,Pré-Pandemia
+2020-02-01,Cinema,Sudeste,1483013.56,55873,Pré-Pandemia
+2020-02-01,Cinema,Sul,1556973.36,44450,Pré-Pandemia
+2020-02-01,Cinema,Nordeste,1332443.33,48890,Pré-Pandemia
+2020-02-01,Cinema,Centro-Oeste,1565627.96,34295,Pré-Pandemia
+2020-02-01,Cinema,Norte,1330272.74,26835,Pré-Pandemia
+2020-02-01,Streaming,Sudeste,913940.31,27558,Pré-Pandemia
+2020-02-01,Streaming,Sul,769145.71,27719,Pré-Pandemia
+2020-02-01,Streaming,Nordeste,740852.26,13846,Pré-Pandemia
+2020-02-01,Streaming,Centro-Oeste,691691.53,16765,Pré-Pandemia
+2020-02-01,Streaming,Norte,939526.16,19097,Pré-Pandemia
+2020-02-01,Shows,Sudeste,1333331.67,26415,Pré-Pandemia
+2020-02-01,Shows,Sul,1135098.44,35880,Pré-Pandemia
+2020-02-01,Shows,Nordeste,1550977.94,59237,Pré-Pandemia
+2020-02-01,Shows,Centro-Oeste,1461849.6,48060,Pré-Pandemia
+2020-02-01,Shows,Norte,1418451.36,54517,Pré-Pandemia
+2020-02-01,Parques,Sudeste,573133.84,10869,Pré-Pandemia
+2020-02-01,Parques,Sul,773196.17,19711,Pré-Pandemia
+2020-02-01,Parques,Nordeste,732124.57,21176,Pré-Pandemia
+2020-02-01,Parques,Centro-Oeste,521041.99,12149,Pré-Pandemia
+2020-02-01,Parques,Norte,481454.41,17630,Pré-Pandemia
+2020-02-01,Jogos Online,Sudeste,680885.3,14567,Pré-Pandemia
+2020-02-01,Jogos Online,Sul,591927.02,14372,Pré-Pandemia
+2020-02-01,Jogos Online,Nordeste,687001.14,15693,Pré-Pandemia
+2020-02-01,Jogos Online,Centro-Oeste,788982.93,24664,Pré-Pandemia
+2020-02-01,Jogos Online,Norte,727186.74,28364,Pré-Pandemia
+2020-03-01,Cinema,Sudeste,511153.59,10646,Pandemia
+2020-03-01,Cinema,Sul,366374.24,9761,Pandemia
+2020-03-01,Cinema,Nordeste,310708.29,9168,Pandemia
+2020-03-01,Cinema,Centro-Oeste,243319.09,5361,Pandemia
+2020-03-01,Cinema,Norte,285855.28,5359,Pandemia
+2020-03-01,Streaming,Sudeste,1990144.91,44733,Pandemia
+2020-03-01,Streaming,Sul,1408198.13,29102,Pandemia
+2020-03-01,Streaming,Nordeste,1492990.47,49409,Pandemia
+2020-03-01,Streaming,Centro-Oeste,1607461.53,50685,Pandemia
+2020-03-01,Streaming,Norte,1517364.74,52530,Pandemia
+2020-03-01,Shows,Sudeste,316679.7,11470,Pandemia
+2020-03-01,Shows,Sul,77840.59,2463,Pandemia
+2020-03-01,Shows,Nordeste,317761.26,6388,Pandemia
+2020-03-01,Shows,Centro-Oeste,227893.44,5092,Pandemia
+2020-03-01,Shows,Norte,273385.8,6276,Pandemia
+2020-03-01,Parques,Sudeste,313023.45,10844,Pandemia
+2020-03-01,Parques,Sul,268032.32,10640,Pandemia
+2020-03-01,Parques,Nordeste,246254.7,5977,Pandemia
+2020-03-01,Parques,Centro-Oeste,203675.42,4631,Pandemia
+2020-03-01,Parques,Norte,224407.85,4853,Pandemia
+2020-03-01,Jogos Online,Sudeste,1070983.98,19758,Pandemia
+2020-03-01,Jogos Online,Sul,745797.66,21488,Pandemia
+2020-03-01,Jogos Online,Nordeste,1251691.58,33126,Pandemia
+2020-03-01,Jogos Online,Centro-Oeste,848093.09,18674,Pandemia
+2020-03-01,Jogos Online,Norte,1320911.21,35138,Pandemia
+2020-04-01,Cinema,Sudeste,506278.29,15871,Pandemia
+2020-04-01,Cinema,Sul,243262.07,4501,Pandemia
+2020-04-01,Cinema,Nordeste,257864.71,5889,Pandemia
+2020-04-01,Cinema,Centro-Oeste,207515.02,7276,Pandemia
+2020-04-01,Cinema,Norte,170366.27,4012,Pandemia
+2020-04-01,Streaming,Sudeste,1523702.15,41433,Pandemia
+2020-04-01,Streaming,Sul,1868078.14,71332,Pandemia
+2020-04-01,Streaming,Nordeste,1283373.12,29473,Pandemia
+2020-04-01,Streaming,Centro-Oeste,1376086.88,38742,Pandemia
+2020-04-01,Streaming,Norte,1358570.1,27716,Pandemia
+2020-04-01,Shows,Sudeste,30591.15,576,Pandemia
+2020-04-01,Shows,Sul,286069.65,8131,Pandemia
+2020-04-01,Shows,Nordeste,315990.04,7132,Pandemia
+2020-04-01,Shows,Centro-Oeste,25384.84,496,Pandemia
+2020-04-01,Shows,Norte,128981.87,3229,Pandemia
+2020-04-01,Parques,Sudeste,317339.51,10241,Pandemia
+2020-04-01,Parques,Sul,190892.62,4078,Pandemia
+2020-04-01,Parques,Nordeste,152426.33,2988,Pandemia
+2020-04-01,Parques,Centro-Oeste,240874.76,6397,Pandemia
+2020-04-01,Parques,Norte,166229.55,3537,Pandemia
+2020-04-01,Jogos Online,Sudeste,1219931.49,40091,Pandemia
+2020-04-01,Jogos Online,Sul,1134886.35,31721,Pandemia
+2020-04-01,Jogos Online,Nordeste,1101467.49,31692,Pandemia
+2020-04-01,Jogos Online,Centro-Oeste,850684.99,28269,Pandemia
+2020-04-01,Jogos Online,Norte,1080221.35,23380,Pandemia
+2020-05-01,Cinema,Sudeste,222883.92,4429,Pandemia
+2020-05-01,Cinema,Sul,465345.49,17420,Pandemia
+2020-05-01,Cinema,Nordeste,456541.8,13239,Pandemia
+2020-05-01,Cinema,Centro-Oeste,303351.96,5664,Pandemia
+2020-05-01,Cinema,Norte,466812.16,15992,Pandemia
+2020-05-01,Streaming,Sudeste,1718205.73,61768,Pandemia
+2020-05-01,Streaming,Sul,1765307.91,33096,Pandemia
+2020-05-01,Streaming,Nordeste,1297612.09,24516,Pandemia
+2020-05-01,Streaming,Centro-Oeste,1846542.1,65485,Pandemia
+2020-05-01,Streaming,Norte,2296064.18,47369,Pandemia
+2020-05-01,Shows,Sudeste,337467.21,6854,Pandemia
+2020-05-01,Shows,Sul,159600.53,6340,Pandemia
+2020-05-01,Shows,Nordeste,139695.2,4348,Pandemia
+2020-05-01,Shows,Centro-Oeste,27609.99,710,Pandemia
+2020-05-01,Shows,Norte,175003.07,4807,Pandemia
+2020-05-01,Parques,Sudeste,258145.36,5546,Pandemia
+2020-05-01,Parques,Sul,140683.52,4355,Pandemia
+2020-05-01,Parques,Nordeste,182256.25,5573,Pandemia
+2020-05-01,Parques,Centro-Oeste,226628.17,4875,Pandemia
+2020-05-01,Parques,Norte,133161.0,3267,Pandemia
+2020-05-01,Jogos Online,Sudeste,1372739.29,27913,Pandemia
+2020-05-01,Jogos Online,Sul,1358611.98,26367,Pandemia
+2020-05-01,Jogos Online,Nordeste,1532989.39,43058,Pandemia
+2020-05-01,Jogos Online,Centro-Oeste,1192535.38,42795,Pandemia
+2020-05-01,Jogos Online,Norte,1455524.06,46204,Pandemia
+2020-06-01,Cinema,Sudeste,172370.19,4693,Pandemia
+2020-06-01,Cinema,Sul,401535.04,10610,Pandemia
+2020-06-01,Cinema,Nordeste,515356.63,12169,Pandemia
+2020-06-01,Cinema,Centro-Oeste,254058.17,7989,Pandemia
+2020-06-01,Cinema,Norte,276755.44,6717,Pandemia
+2020-06-01,Streaming,Sudeste,1837356.51,33514,Pandemia
+2020-06-01,Streaming,Sul,1687248.61,31403,Pandemia
+2020-06-01,Streaming,Nordeste,1717223.79,36012,Pandemia
+2020-06-01,Streaming,Centro-Oeste,1662178.29,56207,Pandemia
+2020-06-01,Streaming,Norte,2037582.4,73629,Pandemia
+2020-06-01,Shows,Sudeste,242208.89,7104,Pandemia
+2020-06-01,Shows,Sul,29097.0,788,Pandemia
+2020-06-01,Shows,Nordeste,222191.18,4396,Pandemia
+2020-06-01,Shows,Centro-Oeste,48225.53,945,Pandemia
+2020-06-01,Shows,Norte,95360.77,2080,Pandemia
+2020-06-01,Parques,Sudeste,306861.19,5825,Pandemia
+2020-06-01,Parques,Sul,145331.11,4945,Pandemia
+2020-06-01,Parques,Nordeste,147189.37,2727,Pandemia
+2020-06-01,Parques,Centro-Oeste,210328.19,6681,Pandemia
+2020-06-01,Parques,Norte,128935.78,4821,Pandemia
+2020-06-01,Jogos Online,Sudeste,880205.92,30732,Pandemia
+2020-06-01,Jogos Online,Sul,1390008.06,28127,Pandemia
+2020-06-01,Jogos Online,Nordeste,953519.19,18480,Pandemia
+2020-06-01,Jogos Online,Centro-Oeste,1438420.85,29918,Pandemia
+2020-06-01,Jogos Online,Norte,1145308.81,39340,Pandemia
+2020-07-01,Cinema,Sudeste,438036.64,8144,Pandemia
+2020-07-01,Cinema,Sul,310125.41,7822,Pandemia
+2020-07-01,Cinema,Nordeste,208340.41,5372,Pandemia
+2020-07-01,Cinema,Centro-Oeste,541129.52,14192,Pandemia
+2020-07-01,Cinema,Norte,279123.28,6233,Pandemia
+2020-07-01,Streaming,Sudeste,1470144.29,31198,Pandemia
+2020-07-01,Streaming,Sul,1445637.07,53270,Pandemia
+2020-07-01,Streaming,Nordeste,1847055.77,38289,Pandemia
+2020-07-01,Streaming,Centro-Oeste,1490722.74,45240,Pandemia
+2020-07-01,Streaming,Norte,1328853.87,36449,Pandemia
+2020-07-01,Shows,Sudeste,224088.28,8534,Pandemia
+2020-07-01,Shows,Sul,108891.4,2295,Pandemia
+2020-07-01,Shows,Nordeste,41034.79,1135,Pandemia
+2020-07-01,Shows,Centro-Oeste,187250.71,6055,Pandemia
+2020-07-01,Shows,Norte,117192.64,2229,Pandemia
+2020-07-01,Parques,Sudeste,301588.54,6749,Pandemia
+2020-07-01,Parques,Sul,250018.66,8636,Pandemia
+2020-07-01,Parques,Nordeste,230706.92,5591,Pandemia
+2020-07-01,Parques,Centro-Oeste,254810.83,5779,Pandemia
+2020-07-01,Parques,Norte,132702.01,2424,Pandemia
+2020-07-01,Jogos Online,Sudeste,1292186.95,29719,Pandemia
+2020-07-01,Jogos Online,Sul,1007830.66,38674,Pandemia
+2020-07-01,Jogos Online,Nordeste,919892.98,26923,Pandemia
+2020-07-01,Jogos Online,Centro-Oeste,1459046.73,34097,Pandemia
+2020-07-01,Jogos Online,Norte,1143449.37,23419,Pandemia
+2020-08-01,Cinema,Sudeste,197983.61,4731,Pandemia
+2020-08-01,Cinema,Sul,454603.61,11380,Pandemia
+2020-08-01,Cinema,Nordeste,205996.35,5084,Pandemia
+2020-08-01,Cinema,Centro-Oeste,309188.73,7199,Pandemia
+2020-08-01,Cinema,Norte,507251.56,10444,Pandemia
+2020-08-01,Streaming,Sudeste,1581565.87,51796,Pandemia
+2020-08-01,Streaming,Sul,1334391.7,32914,Pandemia
+2020-08-01,Streaming,Nordeste,2219599.45,72576,Pandemia
+2020-08-01,Streaming,Centro-Oeste,1709380.79,42848,Pandemia
+2020-08-01,Streaming,Norte,1523452.64,32045,Pandemia
+2020-08-01,Shows,Sudeste,22458.63,693,Pandemia
+2020-08-01,Shows,Sul,108738.1,4033,Pandemia
+2020-08-01,Shows,Nordeste,22847.65,612,Pandemia
+2020-08-01,Shows,Centro-Oeste,8045.51,152,Pandemia
+2020-08-01,Shows,Norte,84535.76,1894,Pandemia
+2020-08-01,Parques,Sudeste,277205.06,9753,Pandemia
+2020-08-01,Parques,Sul,275666.22,9692,Pandemia
+2020-08-01,Parques,Nordeste,206016.13,5317,Pandemia
+2020-08-01,Parques,Centro-Oeste,268878.31,7198,Pandemia
+2020-08-01,Parques,Norte,208789.93,7861,Pandemia
+2020-08-01,Jogos Online,Sudeste,1181880.44,29124,Pandemia
+2020-08-01,Jogos Online,Sul,1006979.07,18460,Pandemia
+2020-08-01,Jogos Online,Nordeste,1376502.29,34469,Pandemia
+2020-08-01,Jogos Online,Centro-Oeste,1529729.01,49167,Pandemia
+2020-08-01,Jogos Online,Norte,1366440.15,37052,Pandemia
+2020-09-01,Cinema,Sudeste,520613.91,10265,Pandemia
+2020-09-01,Cinema,Sul,487313.2,9404,Pandemia
+2020-09-01,Cinema,Nordeste,512414.82,10434,Pandemia
+2020-09-01,Cinema,Centro-Oeste,397669.96,13265,Pandemia
+2020-09-01,Cinema,Norte,552861.08,11869,Pandemia
+2020-09-01,Streaming,Sudeste,1424783.19,34562,Pandemia
+2020-09-01,Streaming,Sul,1368918.9,34372,Pandemia
+2020-09-01,Streaming,Nordeste,1233634.18,38316,Pandemia
+2020-09-01,Streaming,Centro-Oeste,1549863.18,43571,Pandemia
+2020-09-01,Streaming,Norte,1688164.64,48576,Pandemia
+2020-09-01,Shows,Sudeste,71445.0,2140,Pandemia
+2020-09-01,Shows,Sul,150094.68,4399,Pandemia
+2020-09-01,Shows,Nordeste,334331.54,10190,Pandemia
+2020-09-01,Shows,Centro-Oeste,198559.4,3898,Pandemia
+2020-09-01,Shows,Norte,287229.65,6086,Pandemia
+2020-09-01,Parques,Sudeste,190132.74,3869,Pandemia
+2020-09-01,Parques,Sul,159574.34,3118,Pandemia
+2020-09-01,Parques,Nordeste,110582.57,2831,Pandemia
+2020-09-01,Parques,Centro-Oeste,142538.81,2737,Pandemia
+2020-09-01,Parques,Norte,233355.51,7250,Pandemia
+2020-09-01,Jogos Online,Sudeste,1340694.11,49823,Pandemia
+2020-09-01,Jogos Online,Sul,1447472.22,29020,Pandemia
+2020-09-01,Jogos Online,Nordeste,1037433.76,21516,Pandemia
+2020-09-01,Jogos Online,Centro-Oeste,1264064.73,27433,Pandemia
+2020-09-01,Jogos Online,Norte,1218916.51,22777,Pandemia
+2020-10-01,Cinema,Sudeste,379001.98,10570,Pandemia
+2020-10-01,Cinema,Sul,338159.09,8569,Pandemia
+2020-10-01,Cinema,Nordeste,191119.87,7575,Pandemia
+2020-10-01,Cinema,Centro-Oeste,255744.93,6333,Pandemia
+2020-10-01,Cinema,Norte,238500.13,6746,Pandemia
+2020-10-01,Streaming,Sudeste,1619401.43,48716,Pandemia
+2020-10-01,Streaming,Sul,1603822.63,46784,Pandemia
+2020-10-01,Streaming,Nordeste,1611411.67,49236,Pandemia
+2020-10-01,Streaming,Centro-Oeste,1653574.14,45841,Pandemia
+2020-10-01,Streaming,Norte,1445978.61,27154,Pandemia
+2020-10-01,Shows,Sudeste,137384.04,2622,Pandemia
+2020-10-01,Shows,Sul,215431.15,5252,Pandemia
+2020-10-01,Shows,Nordeste,156624.0,5953,Pandemia
+2020-10-01,Shows,Centro-Oeste,140618.67,3072,Pandemia
+2020-10-01,Shows,Norte,97012.49,1982,Pandemia
+2020-10-01,Parques,Sudeste,204073.58,5648,Pandemia
+2020-10-01,Parques,Sul,182211.46,6224,Pandemia
+2020-10-01,Parques,Nordeste,131402.75,3731,Pandemia
+2020-10-01,Parques,Centro-Oeste,228780.79,7254,Pandemia
+2020-10-01,Parques,Norte,117840.06,2934,Pandemia
+2020-10-01,Jogos Online,Sudeste,950509.05,36984,Pandemia
+2020-10-01,Jogos Online,Sul,1143240.73,33215,Pandemia
+2020-10-01,Jogos Online,Nordeste,1245238.8,33945,Pandemia
+2020-10-01,Jogos Online,Centro-Oeste,1201025.3,25096,Pandemia
+2020-10-01,Jogos Online,Norte,827475.3,23459,Pandemia
+2020-11-01,Cinema,Sudeste,232412.14,6065,Pandemia
+2020-11-01,Cinema,Sul,453120.39,10768,Pandemia
+2020-11-01,Cinema,Nordeste,436685.35,13718,Pandemia
+2020-11-01,Cinema,Centro-Oeste,497561.0,10214,Pandemia
+2020-11-01,Cinema,Norte,177206.36,4558,Pandemia
+2020-11-01,Streaming,Sudeste,1450764.83,46653,Pandemia
+2020-11-01,Streaming,Sul,1729928.76,31787,Pandemia
+2020-11-01,Streaming,Nordeste,1638926.74,57958,Pandemia
+2020-11-01,Streaming,Centro-Oeste,1789270.45,46536,Pandemia
+2020-11-01,Streaming,Norte,1829020.66,39181,Pandemia
+2020-11-01,Shows,Sudeste,98244.09,3137,Pandemia
+2020-11-01,Shows,Sul,329705.15,12965,Pandemia
+2020-11-01,Shows,Nordeste,295246.26,6597,Pandemia
+2020-11-01,Shows,Centro-Oeste,183579.0,4931,Pandemia
+2020-11-01,Shows,Norte,148062.83,5450,Pandemia
+2020-11-01,Parques,Sudeste,149601.79,3237,Pandemia
+2020-11-01,Parques,Sul,157984.46,3217,Pandemia
+2020-11-01,Parques,Nordeste,158376.82,3582,Pandemia
+2020-11-01,Parques,Centro-Oeste,273390.95,6819,Pandemia
+2020-11-01,Parques,Norte,119198.71,2568,Pandemia
+2020-11-01,Jogos Online,Sudeste,1087945.93,32827,Pandemia
+2020-11-01,Jogos Online,Sul,1029777.4,29825,Pandemia
+2020-11-01,Jogos Online,Nordeste,1036640.54,20658,Pandemia
+2020-11-01,Jogos Online,Centro-Oeste,906261.16,27370,Pandemia
+2020-11-01,Jogos Online,Norte,1306646.57,35976,Pandemia
+2020-12-01,Cinema,Sudeste,614828.04,13332,Pandemia
+2020-12-01,Cinema,Sul,167830.75,3136,Pandemia
+2020-12-01,Cinema,Nordeste,381899.21,10667,Pandemia
+2020-12-01,Cinema,Centro-Oeste,550070.58,15240,Pandemia
+2020-12-01,Cinema,Norte,153565.26,3434,Pandemia
+2020-12-01,Streaming,Sudeste,1748216.73,60080,Pandemia
+2020-12-01,Streaming,Sul,1943608.97,62745,Pandemia
+2020-12-01,Streaming,Nordeste,1439000.23,43569,Pandemia
+2020-12-01,Streaming,Centro-Oeste,1029685.37,27525,Pandemia
+2020-12-01,Streaming,Norte,1501552.37,27856,Pandemia
+2020-12-01,Shows,Sudeste,113227.36,2086,Pandemia
+2020-12-01,Shows,Sul,251259.44,9843,Pandemia
+2020-12-01,Shows,Nordeste,149273.59,4391,Pandemia
+2020-12-01,Shows,Centro-Oeste,339485.52,7013,Pandemia
+2020-12-01,Shows,Norte,97996.55,2480,Pandemia
+2020-12-01,Parques,Sudeste,325758.18,5951,Pandemia
+2020-12-01,Parques,Sul,163214.11,5585,Pandemia
+2020-12-01,Parques,Nordeste,154417.69,4214,Pandemia
+2020-12-01,Parques,Centro-Oeste,281724.34,5449,Pandemia
+2020-12-01,Parques,Norte,118870.27,4095,Pandemia
+2020-12-01,Jogos Online,Sudeste,1032317.74,31055,Pandemia
+2020-12-01,Jogos Online,Sul,806967.87,21033,Pandemia
+2020-12-01,Jogos Online,Nordeste,1482415.71,45953,Pandemia
+2020-12-01,Jogos Online,Centro-Oeste,1500998.92,35665,Pandemia
+2020-12-01,Jogos Online,Norte,1448790.66,47187,Pandemia
+2021-01-01,Cinema,Sudeste,603402.42,12645,Pandemia
+2021-01-01,Cinema,Sul,237596.39,7951,Pandemia
+2021-01-01,Cinema,Nordeste,381167.84,7221,Pandemia
+2021-01-01,Cinema,Centro-Oeste,276056.59,9908,Pandemia
+2021-01-01,Cinema,Norte,313958.02,8500,Pandemia
+2021-01-01,Streaming,Sudeste,1908802.68,40077,Pandemia
+2021-01-01,Streaming,Sul,1765453.97,42113,Pandemia
+2021-01-01,Streaming,Nordeste,1450500.84,36101,Pandemia
+2021-01-01,Streaming,Centro-Oeste,1124023.98,21004,Pandemia
+2021-01-01,Streaming,Norte,1414500.57,39743,Pandemia
+2021-01-01,Shows,Sudeste,318279.43,7972,Pandemia
+2021-01-01,Shows,Sul,59157.51,2180,Pandemia
+2021-01-01,Shows,Nordeste,207005.49,5920,Pandemia
+2021-01-01,Shows,Centro-Oeste,239359.68,7151,Pandemia
+2021-01-01,Shows,Norte,44495.79,1094,Pandemia
+2021-01-01,Parques,Sudeste,155911.27,6225,Pandemia
+2021-01-01,Parques,Sul,272706.53,7238,Pandemia
+2021-01-01,Parques,Nordeste,253235.76,4864,Pandemia
+2021-01-01,Parques,Centro-Oeste,203062.14,7424,Pandemia
+2021-01-01,Parques,Norte,307637.7,11709,Pandemia
+2021-01-01,Jogos Online,Sudeste,1078096.67,26675,Pandemia
+2021-01-01,Jogos Online,Sul,1358935.88,34978,Pandemia
+2021-01-01,Jogos Online,Nordeste,1172564.13,38000,Pandemia
+2021-01-01,Jogos Online,Centro-Oeste,1367426.14,32665,Pandemia
+2021-01-01,Jogos Online,Norte,1416705.31,38781,Pandemia
+2021-02-01,Cinema,Sudeste,157314.02,4909,Pandemia
+2021-02-01,Cinema,Sul,468088.14,10055,Pandemia
+2021-02-01,Cinema,Nordeste,458905.56,9005,Pandemia
+2021-02-01,Cinema,Centro-Oeste,246972.63,7596,Pandemia
+2021-02-01,Cinema,Norte,461207.84,17368,Pandemia
+2021-02-01,Streaming,Sudeste,1335175.72,28419,Pandemia
+2021-02-01,Streaming,Sul,1347751.84,38536,Pandemia
+2021-02-01,Streaming,Nordeste,1578460.46,50968,Pandemia
+2021-02-01,Streaming,Centro-Oeste,1751785.02,32195,Pandemia
+2021-02-01,Streaming,Norte,1552688.55,32940,Pandemia
+2021-02-01,Shows,Sudeste,110044.97,2787,Pandemia
+2021-02-01,Shows,Sul,196425.92,7204,Pandemia
+2021-02-01,Shows,Nordeste,35112.94,1063,Pandemia
+2021-02-01,Shows,Centro-Oeste,94295.91,2742,Pandemia
+2021-02-01,Shows,Norte,268745.42,5038,Pandemia
+2021-02-01,Parques,Sudeste,242030.67,6498,Pandemia
+2021-02-01,Parques,Sul,192926.36,3844,Pandemia
+2021-02-01,Parques,Nordeste,134665.48,4848,Pandemia
+2021-02-01,Parques,Centro-Oeste,181455.81,7180,Pandemia
+2021-02-01,Parques,Norte,136830.52,4417,Pandemia
+2021-02-01,Jogos Online,Sudeste,922001.12,28433,Pandemia
+2021-02-01,Jogos Online,Sul,1032006.18,19274,Pandemia
+2021-02-01,Jogos Online,Nordeste,1035615.05,23805,Pandemia
+2021-02-01,Jogos Online,Centro-Oeste,1275610.16,29991,Pandemia
+2021-02-01,Jogos Online,Norte,1378716.21,35690,Pandemia
+2021-03-01,Cinema,Sudeste,459510.38,8656,Pandemia
+2021-03-01,Cinema,Sul,164573.44,4106,Pandemia
+2021-03-01,Cinema,Nordeste,168946.12,3783,Pandemia
+2021-03-01,Cinema,Centro-Oeste,284652.09,5533,Pandemia
+2021-03-01,Cinema,Norte,464712.01,11489,Pandemia
+2021-03-01,Streaming,Sudeste,1371300.39,26163,Pandemia
+2021-03-01,Streaming,Sul,1681374.42,59884,Pandemia
+2021-03-01,Streaming,Nordeste,1758960.99,35083,Pandemia
+2021-03-01,Streaming,Centro-Oeste,1923618.02,63324,Pandemia
+2021-03-01,Streaming,Norte,1504744.65,32035,Pandemia
+2021-03-01,Shows,Sudeste,34782.27,1079,Pandemia
+2021-03-01,Shows,Sul,71896.24,2690,Pandemia
+2021-03-01,Shows,Nordeste,80837.67,2157,Pandemia
+2021-03-01,Shows,Centro-Oeste,250726.04,6711,Pandemia
+2021-03-01,Shows,Norte,162348.44,4623,Pandemia
+2021-03-01,Parques,Sudeste,167999.49,4176,Pandemia
+2021-03-01,Parques,Sul,135642.47,3093,Pandemia
+2021-03-01,Parques,Nordeste,283861.19,5718,Pandemia
+2021-03-01,Parques,Centro-Oeste,229244.38,4526,Pandemia
+2021-03-01,Parques,Norte,220312.78,7083,Pandemia
+2021-03-01,Jogos Online,Sudeste,1144341.41,25745,Pandemia
+2021-03-01,Jogos Online,Sul,1431659.94,41336,Pandemia
+2021-03-01,Jogos Online,Nordeste,1075483.74,23038,Pandemia
+2021-03-01,Jogos Online,Centro-Oeste,1226321.01,48742,Pandemia
+2021-03-01,Jogos Online,Norte,1328640.99,27418,Pandemia
+2021-04-01,Cinema,Sudeste,511816.42,10828,Pandemia
+2021-04-01,Cinema,Sul,249880.52,5823,Pandemia
+2021-04-01,Cinema,Nordeste,439724.39,9458,Pandemia
+2021-04-01,Cinema,Centro-Oeste,263750.26,5049,Pandemia
+2021-04-01,Cinema,Norte,426860.45,9531,Pandemia
+2021-04-01,Streaming,Sudeste,1494884.15,43036,Pandemia
+2021-04-01,Streaming,Sul,1225386.1,27316,Pandemia
+2021-04-01,Streaming,Nordeste,1967447.54,54575,Pandemia
+2021-04-01,Streaming,Centro-Oeste,1099191.93,26347,Pandemia
+2021-04-01,Streaming,Norte,1612335.97,30989,Pandemia
+2021-04-01,Shows,Sudeste,251505.4,9032,Pandemia
+2021-04-01,Shows,Sul,322959.93,10016,Pandemia
+2021-04-01,Shows,Nordeste,52143.92,1242,Pandemia
+2021-04-01,Shows,Centro-Oeste,87660.88,1831,Pandemia
+2021-04-01,Shows,Norte,255541.17,5997,Pandemia
+2021-04-01,Parques,Sudeste,190768.47,5987,Pandemia
+2021-04-01,Parques,Sul,160602.76,2927,Pandemia
+2021-04-01,Parques,Nordeste,204281.87,5286,Pandemia
+2021-04-01,Parques,Centro-Oeste,289546.18,6332,Pandemia
+2021-04-01,Parques,Norte,154000.52,5069,Pandemia
+2021-04-01,Jogos Online,Sudeste,802139.16,16582,Pandemia
+2021-04-01,Jogos Online,Sul,1400699.27,35322,Pandemia
+2021-04-01,Jogos Online,Nordeste,1406744.42,32879,Pandemia
+2021-04-01,Jogos Online,Centro-Oeste,992100.3,19291,Pandemia
+2021-04-01,Jogos Online,Norte,1181084.21,25064,Pandemia
+2021-05-01,Cinema,Sudeste,292616.12,5399,Pandemia
+2021-05-01,Cinema,Sul,427561.91,8636,Pandemia
+2021-05-01,Cinema,Nordeste,471912.66,14802,Pandemia
+2021-05-01,Cinema,Centro-Oeste,429429.13,8988,Pandemia
+2021-05-01,Cinema,Norte,538508.83,16841,Pandemia
+2021-05-01,Streaming,Sudeste,1242455.61,25217,Pandemia
+2021-05-01,Streaming,Sul,1464999.0,42996,Pandemia
+2021-05-01,Streaming,Nordeste,1580652.54,36154,Pandemia
+2021-05-01,Streaming,Centro-Oeste,1795336.39,67217,Pandemia
+2021-05-01,Streaming,Norte,1740371.39,34215,Pandemia
+2021-05-01,Shows,Sudeste,286889.59,9298,Pandemia
+2021-05-01,Shows,Sul,167494.24,3298,Pandemia
+2021-05-01,Shows,Nordeste,143589.91,2682,Pandemia
+2021-05-01,Shows,Centro-Oeste,186015.01,4474,Pandemia
+2021-05-01,Shows,Norte,46338.92,1468,Pandemia
+2021-05-01,Parques,Sudeste,295059.63,10074,Pandemia
+2021-05-01,Parques,Sul,154391.17,3159,Pandemia
+2021-05-01,Parques,Nordeste,143328.53,4357,Pandemia
+2021-05-01,Parques,Centro-Oeste,200501.38,5174,Pandemia
+2021-05-01,Parques,Norte,261898.53,8387,Pandemia
+2021-05-01,Jogos Online,Sudeste,1105411.4,27902,Pandemia
+2021-05-01,Jogos Online,Sul,1249726.64,41490,Pandemia
+2021-05-01,Jogos Online,Nordeste,1410378.57,35001,Pandemia
+2021-05-01,Jogos Online,Centro-Oeste,1277299.02,42833,Pandemia
+2021-05-01,Jogos Online,Norte,1068510.96,24706,Pandemia
+2021-06-01,Cinema,Sudeste,304204.74,10576,Pandemia
+2021-06-01,Cinema,Sul,475313.18,17614,Pandemia
+2021-06-01,Cinema,Nordeste,148790.84,5744,Pandemia
+2021-06-01,Cinema,Centro-Oeste,624274.29,18081,Pandemia
+2021-06-01,Cinema,Norte,485207.7,9002,Pandemia
+2021-06-01,Streaming,Sudeste,1639436.92,46576,Pandemia
+2021-06-01,Streaming,Sul,1824977.23,59694,Pandemia
+2021-06-01,Streaming,Nordeste,2016900.23,68337,Pandemia
+2021-06-01,Streaming,Centro-Oeste,1658235.5,34884,Pandemia
+2021-06-01,Streaming,Norte,1366823.82,54225,Pandemia
+2021-06-01,Shows,Sudeste,171453.34,3280,Pandemia
+2021-06-01,Shows,Sul,91611.96,2417,Pandemia
+2021-06-01,Shows,Nordeste,263813.41,7760,Pandemia
+2021-06-01,Shows,Centro-Oeste,68712.88,1946,Pandemia
+2021-06-01,Shows,Norte,356424.45,6861,Pandemia
+2021-06-01,Parques,Sudeste,226253.44,5348,Pandemia
+2021-06-01,Parques,Sul,164664.09,3491,Pandemia
+2021-06-01,Parques,Nordeste,142355.86,4200,Pandemia
+2021-06-01,Parques,Centro-Oeste,162154.3,4577,Pandemia
+2021-06-01,Parques,Norte,211655.5,6495,Pandemia
+2021-06-01,Jogos Online,Sudeste,1075642.39,29982,Pandemia
+2021-06-01,Jogos Online,Sul,1130541.3,22509,Pandemia
+2021-06-01,Jogos Online,Nordeste,1080499.19,31688,Pandemia
+2021-06-01,Jogos Online,Centro-Oeste,951666.87,24235,Pandemia
+2021-06-01,Jogos Online,Norte,1287306.16,47584,Pandemia
+2021-07-01,Cinema,Sudeste,280742.36,7877,Pandemia
+2021-07-01,Cinema,Sul,377663.22,11563,Pandemia
+2021-07-01,Cinema,Nordeste,163657.32,4440,Pandemia
+2021-07-01,Cinema,Centro-Oeste,201036.27,3913,Pandemia
+2021-07-01,Cinema,Norte,355864.87,6899,Pandemia
+2021-07-01,Streaming,Sudeste,2128304.25,51987,Pandemia
+2021-07-01,Streaming,Sul,1748219.42,42423,Pandemia
+2021-07-01,Streaming,Nordeste,1757770.28,44477,Pandemia
+2021-07-01,Streaming,Centro-Oeste,1314827.97,52194,Pandemia
+2021-07-01,Streaming,Norte,2107596.96,42870,Pandemia
+2021-07-01,Shows,Sudeste,228496.5,5301,Pandemia
+2021-07-01,Shows,Sul,45467.56,1435,Pandemia
+2021-07-01,Shows,Nordeste,145272.11,3044,Pandemia
+2021-07-01,Shows,Centro-Oeste,150671.81,3498,Pandemia
+2021-07-01,Shows,Norte,7290.28,228,Pandemia
+2021-07-01,Parques,Sudeste,132931.17,3614,Pandemia
+2021-07-01,Parques,Sul,213596.2,5008,Pandemia
+2021-07-01,Parques,Nordeste,154046.28,2955,Pandemia
+2021-07-01,Parques,Centro-Oeste,220750.49,6957,Pandemia
+2021-07-01,Parques,Norte,128246.73,2509,Pandemia
+2021-07-01,Jogos Online,Sudeste,1124680.49,32104,Pandemia
+2021-07-01,Jogos Online,Sul,1440430.66,48635,Pandemia
+2021-07-01,Jogos Online,Nordeste,1022623.99,39271,Pandemia
+2021-07-01,Jogos Online,Centro-Oeste,1197513.07,23087,Pandemia
+2021-07-01,Jogos Online,Norte,1401126.79,31003,Pandemia
+2021-08-01,Cinema,Sudeste,556647.64,16807,Pandemia
+2021-08-01,Cinema,Sul,208478.43,4655,Pandemia
+2021-08-01,Cinema,Nordeste,395447.94,10455,Pandemia
+2021-08-01,Cinema,Centro-Oeste,321214.86,6463,Pandemia
+2021-08-01,Cinema,Norte,462716.53,8450,Pandemia
+2021-08-01,Streaming,Sudeste,1150889.83,39991,Pandemia
+2021-08-01,Streaming,Sul,1804628.41,41876,Pandemia
+2021-08-01,Streaming,Nordeste,1478500.77,32302,Pandemia
+2021-08-01,Streaming,Centro-Oeste,1449287.29,33564,Pandemia
+2021-08-01,Streaming,Norte,1448025.18,41420,Pandemia
+2021-08-01,Shows,Sudeste,30919.23,818,Pandemia
+2021-08-01,Shows,Sul,87376.9,1690,Pandemia
+2021-08-01,Shows,Nordeste,187369.98,5319,Pandemia
+2021-08-01,Shows,Centro-Oeste,52106.84,1134,Pandemia
+2021-08-01,Shows,Norte,223604.07,8932,Pandemia
+2021-08-01,Parques,Sudeste,188775.3,4028,Pandemia
+2021-08-01,Parques,Sul,152215.3,3048,Pandemia
+2021-08-01,Parques,Nordeste,213895.99,7493,Pandemia
+2021-08-01,Parques,Centro-Oeste,168479.4,3334,Pandemia
+2021-08-01,Parques,Norte,128814.13,2981,Pandemia
+2021-08-01,Jogos Online,Sudeste,833626.12,15262,Pandemia
+2021-08-01,Jogos Online,Sul,1344958.82,38639,Pandemia
+2021-08-01,Jogos Online,Nordeste,908292.9,20656,Pandemia
+2021-08-01,Jogos Online,Centro-Oeste,1469986.24,36751,Pandemia
+2021-08-01,Jogos Online,Norte,1025512.53,23568,Pandemia
+2021-09-01,Cinema,Sudeste,527900.45,12402,Pandemia
+2021-09-01,Cinema,Sul,400600.48,12514,Pandemia
+2021-09-01,Cinema,Nordeste,393702.65,11501,Pandemia
+2021-09-01,Cinema,Centro-Oeste,403095.39,9114,Pandemia
+2021-09-01,Cinema,Norte,418978.64,16348,Pandemia
+2021-09-01,Streaming,Sudeste,1333020.74,36147,Pandemia
+2021-09-01,Streaming,Sul,1325997.94,31173,Pandemia
+2021-09-01,Streaming,Nordeste,1299118.02,29035,Pandemia
+2021-09-01,Streaming,Centro-Oeste,1800767.65,48091,Pandemia
+2021-09-01,Streaming,Norte,1944566.7,36542,Pandemia
+2021-09-01,Shows,Sudeste,56298.0,1520,Pandemia
+2021-09-01,Shows,Sul,124602.17,4657,Pandemia
+2021-09-01,Shows,Nordeste,351933.5,8540,Pandemia
+2021-09-01,Shows,Centro-Oeste,280268.64,9487,Pandemia
+2021-09-01,Shows,Norte,30027.13,602,Pandemia
+2021-09-01,Parques,Sudeste,245156.13,4606,Pandemia
+2021-09-01,Parques,Sul,123957.66,3336,Pandemia
+2021-09-01,Parques,Nordeste,270858.43,5061,Pandemia
+2021-09-01,Parques,Centro-Oeste,227366.79,5953,Pandemia
+2021-09-01,Parques,Norte,217256.78,6899,Pandemia
+2021-09-01,Jogos Online,Sudeste,1127720.07,23018,Pandemia
+2021-09-01,Jogos Online,Sul,1161970.39,21623,Pandemia
+2021-09-01,Jogos Online,Nordeste,1040059.76,38826,Pandemia
+2021-09-01,Jogos Online,Centro-Oeste,1028899.98,26896,Pandemia
+2021-09-01,Jogos Online,Norte,896835.75,22226,Pandemia
+2021-10-01,Cinema,Sudeste,303105.59,11170,Pandemia
+2021-10-01,Cinema,Sul,334543.37,11974,Pandemia
+2021-10-01,Cinema,Nordeste,200125.27,3981,Pandemia
+2021-10-01,Cinema,Centro-Oeste,285580.33,8821,Pandemia
+2021-10-01,Cinema,Norte,296493.34,7120,Pandemia
+2021-10-01,Streaming,Sudeste,1198365.23,31988,Pandemia
+2021-10-01,Streaming,Sul,1526653.13,32579,Pandemia
+2021-10-01,Streaming,Nordeste,1694753.82,37390,Pandemia
+2021-10-01,Streaming,Centro-Oeste,1485228.31,30640,Pandemia
+2021-10-01,Streaming,Norte,1336463.19,35840,Pandemia
+2021-10-01,Shows,Sudeste,278491.84,6576,Pandemia
+2021-10-01,Shows,Sul,266995.39,7125,Pandemia
+2021-10-01,Shows,Nordeste,200188.54,5428,Pandemia
+2021-10-01,Shows,Centro-Oeste,408928.55,13086,Pandemia
+2021-10-01,Shows,Norte,180702.38,4275,Pandemia
+2021-10-01,Parques,Sudeste,244228.5,9482,Pandemia
+2021-10-01,Parques,Sul,171511.2,3508,Pandemia
+2021-10-01,Parques,Nordeste,139313.79,3241,Pandemia
+2021-10-01,Parques,Centro-Oeste,228966.63,8903,Pandemia
+2021-10-01,Parques,Norte,215197.64,5183,Pandemia
+2021-10-01,Jogos Online,Sudeste,1054302.14,24916,Pandemia
+2021-10-01,Jogos Online,Sul,1488484.22,35303,Pandemia
+2021-10-01,Jogos Online,Nordeste,1083523.46,25411,Pandemia
+2021-10-01,Jogos Online,Centro-Oeste,1001385.47,31871,Pandemia
+2021-10-01,Jogos Online,Norte,1311160.99,26780,Pandemia
+2021-11-01,Cinema,Sudeste,584458.74,13020,Pandemia
+2021-11-01,Cinema,Sul,524783.01,19821,Pandemia
+2021-11-01,Cinema,Nordeste,290470.18,7261,Pandemia
+2021-11-01,Cinema,Centro-Oeste,437492.56,13982,Pandemia
+2021-11-01,Cinema,Norte,652136.87,14254,Pandemia
+2021-11-01,Streaming,Sudeste,1560326.3,50003,Pandemia
+2021-11-01,Streaming,Sul,1294468.7,34835,Pandemia
+2021-11-01,Streaming,Nordeste,1495491.0,28809,Pandemia
+2021-11-01,Streaming,Centro-Oeste,1110619.86,28056,Pandemia
+2021-11-01,Streaming,Norte,1288305.29,25380,Pandemia
+2021-11-01,Shows,Sudeste,56666.24,1621,Pandemia
+2021-11-01,Shows,Sul,206038.15,4052,Pandemia
+2021-11-01,Shows,Nordeste,133146.94,2495,Pandemia
+2021-11-01,Shows,Centro-Oeste,50777.44,1559,Pandemia
+2021-11-01,Shows,Norte,22004.75,603,Pandemia
+2021-11-01,Parques,Sudeste,154740.09,3588,Pandemia
+2021-11-01,Parques,Sul,281262.27,6232,Pandemia
+2021-11-01,Parques,Nordeste,241323.78,4678,Pandemia
+2021-11-01,Parques,Centro-Oeste,210169.99,3946,Pandemia
+2021-11-01,Parques,Norte,147633.82,2720,Pandemia
+2021-11-01,Jogos Online,Sudeste,1297028.06,32292,Pandemia
+2021-11-01,Jogos Online,Sul,1007679.57,23510,Pandemia
+2021-11-01,Jogos Online,Nordeste,1389982.1,36998,Pandemia
+2021-11-01,Jogos Online,Centro-Oeste,1108221.32,20196,Pandemia
+2021-11-01,Jogos Online,Norte,977228.91,30936,Pandemia
+2021-12-01,Cinema,Sudeste,127308.47,4710,Pandemia
+2021-12-01,Cinema,Sul,447042.03,12334,Pandemia
+2021-12-01,Cinema,Nordeste,383670.95,14416,Pandemia
+2021-12-01,Cinema,Centro-Oeste,230187.23,5085,Pandemia
+2021-12-01,Cinema,Norte,373049.51,6824,Pandemia
+2021-12-01,Streaming,Sudeste,2381161.6,46942,Pandemia
+2021-12-01,Streaming,Sul,1577823.86,31833,Pandemia
+2021-12-01,Streaming,Nordeste,1663577.91,61510,Pandemia
+2021-12-01,Streaming,Centro-Oeste,1891700.84,36268,Pandemia
+2021-12-01,Streaming,Norte,1345618.66,39645,Pandemia
+2021-12-01,Shows,Sudeste,239517.26,8833,Pandemia
+2021-12-01,Shows,Sul,349511.37,10784,Pandemia
+2021-12-01,Shows,Nordeste,340552.19,6420,Pandemia
+2021-12-01,Shows,Centro-Oeste,292758.05,8062,Pandemia
+2021-12-01,Shows,Norte,53189.51,1326,Pandemia
+2021-12-01,Parques,Sudeste,123609.55,3403,Pandemia
+2021-12-01,Parques,Sul,274767.71,10450,Pandemia
+2021-12-01,Parques,Nordeste,122654.33,2253,Pandemia
+2021-12-01,Parques,Centro-Oeste,199992.33,3763,Pandemia
+2021-12-01,Parques,Norte,247943.65,7205,Pandemia
+2021-12-01,Jogos Online,Sudeste,1247325.71,43059,Pandemia
+2021-12-01,Jogos Online,Sul,1298931.69,36207,Pandemia
+2021-12-01,Jogos Online,Nordeste,842491.75,16356,Pandemia
+2021-12-01,Jogos Online,Centro-Oeste,875654.86,20226,Pandemia
+2021-12-01,Jogos Online,Norte,882721.81,16870,Pandemia
+2022-01-01,Cinema,Sudeste,910264.65,16865,Pós-Pandemia
+2022-01-01,Cinema,Sul,1158402.52,37533,Pós-Pandemia
+2022-01-01,Cinema,Nordeste,1052286.47,19646,Pós-Pandemia
+2022-01-01,Cinema,Centro-Oeste,1362738.64,42841,Pós-Pandemia
+2022-01-01,Cinema,Norte,1354210.94,34136,Pós-Pandemia
+2022-01-01,Streaming,Sudeste,2044069.84,53776,Pós-Pandemia
+2022-01-01,Streaming,Sul,2009594.62,40885,Pós-Pandemia
+2022-01-01,Streaming,Nordeste,1816037.14,38257,Pós-Pandemia
+2022-01-01,Streaming,Centro-Oeste,1768749.55,52396,Pós-Pandemia
+2022-01-01,Streaming,Norte,2257908.23,59712,Pós-Pandemia
+2022-01-01,Shows,Sudeste,1186196.17,41326,Pós-Pandemia
+2022-01-01,Shows,Sul,1042789.72,20784,Pós-Pandemia
+2022-01-01,Shows,Nordeste,1450788.73,26737,Pós-Pandemia
+2022-01-01,Shows,Centro-Oeste,1077716.25,30937,Pós-Pandemia
+2022-01-01,Shows,Norte,1075414.58,21050,Pós-Pandemia
+2022-01-01,Parques,Sudeste,505545.66,10943,Pós-Pandemia
+2022-01-01,Parques,Sul,548768.65,13131,Pós-Pandemia
+2022-01-01,Parques,Nordeste,901024.43,22069,Pós-Pandemia
+2022-01-01,Parques,Centro-Oeste,576504.56,13748,Pós-Pandemia
+2022-01-01,Parques,Norte,750782.23,14252,Pós-Pandemia
+2022-01-01,Jogos Online,Sudeste,1411012.97,35548,Pós-Pandemia
+2022-01-01,Jogos Online,Sul,1262972.92,45845,Pós-Pandemia
+2022-01-01,Jogos Online,Nordeste,1242506.68,23450,Pós-Pandemia
+2022-01-01,Jogos Online,Centro-Oeste,1057210.77,30129,Pós-Pandemia
+2022-01-01,Jogos Online,Norte,1074115.04,19827,Pós-Pandemia
+2022-02-01,Cinema,Sudeste,1064923.44,37784,Pós-Pandemia
+2022-02-01,Cinema,Sul,1176845.78,27819,Pós-Pandemia
+2022-02-01,Cinema,Nordeste,902848.19,23674,Pós-Pandemia
+2022-02-01,Cinema,Centro-Oeste,1474185.44,34994,Pós-Pandemia
+2022-02-01,Cinema,Norte,1327514.56,24589,Pós-Pandemia
+2022-02-01,Streaming,Sudeste,2266298.75,58607,Pós-Pandemia
+2022-02-01,Streaming,Sul,1714872.14,43339,Pós-Pandemia
+2022-02-01,Streaming,Nordeste,2270951.91,54359,Pós-Pandemia
+2022-02-01,Streaming,Centro-Oeste,1732418.53,63247,Pós-Pandemia
+2022-02-01,Streaming,Norte,2430891.87,65360,Pós-Pandemia
+2022-02-01,Shows,Sudeste,1285703.27,41402,Pós-Pandemia
+2022-02-01,Shows,Sul,1416453.35,36111,Pós-Pandemia
+2022-02-01,Shows,Nordeste,841450.0,15428,Pós-Pandemia
+2022-02-01,Shows,Centro-Oeste,1085372.83,42347,Pós-Pandemia
+2022-02-01,Shows,Norte,1372741.2,26199,Pós-Pandemia
+2022-02-01,Parques,Sudeste,899453.8,19856,Pós-Pandemia
+2022-02-01,Parques,Sul,685490.28,12963,Pós-Pandemia
+2022-02-01,Parques,Nordeste,507057.63,14855,Pós-Pandemia
+2022-02-01,Parques,Centro-Oeste,867884.82,22818,Pós-Pandemia
+2022-02-01,Parques,Norte,653223.3,17745,Pós-Pandemia
+2022-02-01,Jogos Online,Sudeste,992322.4,25295,Pós-Pandemia
+2022-02-01,Jogos Online,Sul,1541186.09,52151,Pós-Pandemia
+2022-02-01,Jogos Online,Nordeste,1253579.43,49705,Pós-Pandemia
+2022-02-01,Jogos Online,Centro-Oeste,1481225.08,36977,Pós-Pandemia
+2022-02-01,Jogos Online,Norte,1448128.62,36892,Pós-Pandemia
+2022-03-01,Cinema,Sudeste,1214207.22,44867,Pós-Pandemia
+2022-03-01,Cinema,Sul,1327310.26,49827,Pós-Pandemia
+2022-03-01,Cinema,Nordeste,1371260.98,44550,Pós-Pandemia
+2022-03-01,Cinema,Centro-Oeste,960124.3,27446,Pós-Pandemia
+2022-03-01,Cinema,Norte,1703420.39,43891,Pós-Pandemia
+2022-03-01,Streaming,Sudeste,2035000.37,66658,Pós-Pandemia
+2022-03-01,Streaming,Sul,1682348.11,44447,Pós-Pandemia
+2022-03-01,Streaming,Nordeste,2044987.79,49797,Pós-Pandemia
+2022-03-01,Streaming,Centro-Oeste,1934203.41,36628,Pós-Pandemia
+2022-03-01,Streaming,Norte,1650595.96,38934,Pós-Pandemia
+2022-03-01,Shows,Sudeste,1190651.92,43332,Pós-Pandemia
+2022-03-01,Shows,Sul,1005935.52,29503,Pós-Pandemia
+2022-03-01,Shows,Nordeste,899365.45,18235,Pós-Pandemia
+2022-03-01,Shows,Centro-Oeste,835887.49,25540,Pós-Pandemia
+2022-03-01,Shows,Norte,1331973.62,32487,Pós-Pandemia
+2022-03-01,Parques,Sudeste,775554.84,24375,Pós-Pandemia
+2022-03-01,Parques,Sul,737532.57,15313,Pós-Pandemia
+2022-03-01,Parques,Nordeste,639558.99,13100,Pós-Pandemia
+2022-03-01,Parques,Centro-Oeste,598265.16,18226,Pós-Pandemia
+2022-03-01,Parques,Norte,665348.47,13071,Pós-Pandemia
+2022-03-01,Jogos Online,Sudeste,1330077.84,47890,Pós-Pandemia
+2022-03-01,Jogos Online,Sul,1802925.75,55596,Pós-Pandemia
+2022-03-01,Jogos Online,Nordeste,1219889.75,26733,Pós-Pandemia
+2022-03-01,Jogos Online,Centro-Oeste,1166645.82,33846,Pós-Pandemia
+2022-03-01,Jogos Online,Norte,1473386.17,38428,Pós-Pandemia
+2022-04-01,Cinema,Sudeste,1365659.42,49378,Pós-Pandemia
+2022-04-01,Cinema,Sul,1539695.97,59423,Pós-Pandemia
+2022-04-01,Cinema,Nordeste,1185329.09,38270,Pós-Pandemia
+2022-04-01,Cinema,Centro-Oeste,1080439.57,34402,Pós-Pandemia
+2022-04-01,Cinema,Norte,1470387.33,27412,Pós-Pandemia
+2022-04-01,Streaming,Sudeste,1758820.82,36391,Pós-Pandemia
+2022-04-01,Streaming,Sul,1764722.93,38324,Pós-Pandemia
+2022-04-01,Streaming,Nordeste,1715976.19,34772,Pós-Pandemia
+2022-04-01,Streaming,Centro-Oeste,1678348.95,37405,Pós-Pandemia
+2022-04-01,Streaming,Norte,1988661.22,50688,Pós-Pandemia
+2022-04-01,Shows,Sudeste,1397119.5,52652,Pós-Pandemia
+2022-04-01,Shows,Sul,1030317.53,31467,Pós-Pandemia
+2022-04-01,Shows,Nordeste,1183960.04,24525,Pós-Pandemia
+2022-04-01,Shows,Centro-Oeste,1046099.94,23565,Pós-Pandemia
+2022-04-01,Shows,Norte,951117.57,28157,Pós-Pandemia
+2022-04-01,Parques,Sudeste,615135.13,20948,Pós-Pandemia
+2022-04-01,Parques,Sul,648868.66,13018,Pós-Pandemia
+2022-04-01,Parques,Nordeste,471412.38,14372,Pós-Pandemia
+2022-04-01,Parques,Centro-Oeste,625633.61,13289,Pós-Pandemia
+2022-04-01,Parques,Norte,710579.41,13427,Pós-Pandemia
+2022-04-01,Jogos Online,Sudeste,1818063.33,67440,Pós-Pandemia
+2022-04-01,Jogos Online,Sul,1632720.38,31186,Pós-Pandemia
+2022-04-01,Jogos Online,Nordeste,1371068.9,51441,Pós-Pandemia
+2022-04-01,Jogos Online,Centro-Oeste,1214890.14,45027,Pós-Pandemia
+2022-04-01,Jogos Online,Norte,1474270.42,31732,Pós-Pandemia
+2022-05-01,Cinema,Sudeste,1216405.75,23809,Pós-Pandemia
+2022-05-01,Cinema,Sul,1637317.3,50629,Pós-Pandemia
+2022-05-01,Cinema,Nordeste,1087113.0,38747,Pós-Pandemia
+2022-05-01,Cinema,Centro-Oeste,1423821.86,40367,Pós-Pandemia
+2022-05-01,Cinema,Norte,1134304.61,37157,Pós-Pandemia
+2022-05-01,Streaming,Sudeste,2033714.19,41015,Pós-Pandemia
+2022-05-01,Streaming,Sul,1995352.72,45588,Pós-Pandemia
+2022-05-01,Streaming,Nordeste,1764397.44,61061,Pós-Pandemia
+2022-05-01,Streaming,Centro-Oeste,1810441.59,36659,Pós-Pandemia
+2022-05-01,Streaming,Norte,1641436.42,34611,Pós-Pandemia
+2022-05-01,Shows,Sudeste,1030876.36,24317,Pós-Pandemia
+2022-05-01,Shows,Sul,1217733.32,38841,Pós-Pandemia
+2022-05-01,Shows,Nordeste,1270360.12,39716,Pós-Pandemia
+2022-05-01,Shows,Centro-Oeste,1219059.16,32802,Pós-Pandemia
+2022-05-01,Shows,Norte,992384.46,18917,Pós-Pandemia
+2022-05-01,Parques,Sudeste,605146.2,11196,Pós-Pandemia
+2022-05-01,Parques,Sul,564305.29,20306,Pós-Pandemia
+2022-05-01,Parques,Nordeste,622853.55,14059,Pós-Pandemia
+2022-05-01,Parques,Centro-Oeste,717232.19,16055,Pós-Pandemia
+2022-05-01,Parques,Norte,563496.69,14573,Pós-Pandemia
+2022-05-01,Jogos Online,Sudeste,1216868.62,26905,Pós-Pandemia
+2022-05-01,Jogos Online,Sul,1214738.0,25087,Pós-Pandemia
+2022-05-01,Jogos Online,Nordeste,1168590.1,24415,Pós-Pandemia
+2022-05-01,Jogos Online,Centro-Oeste,1271809.08,47072,Pós-Pandemia
+2022-05-01,Jogos Online,Norte,1279205.25,49498,Pós-Pandemia
+2022-06-01,Cinema,Sudeste,1293140.46,34803,Pós-Pandemia
+2022-06-01,Cinema,Sul,1486781.42,27042,Pós-Pandemia
+2022-06-01,Cinema,Nordeste,1146461.22,23467,Pós-Pandemia
+2022-06-01,Cinema,Centro-Oeste,933380.82,28155,Pós-Pandemia
+2022-06-01,Cinema,Norte,1490694.11,39768,Pós-Pandemia
+2022-06-01,Streaming,Sudeste,1835458.64,64151,Pós-Pandemia
+2022-06-01,Streaming,Sul,2377495.6,50632,Pós-Pandemia
+2022-06-01,Streaming,Nordeste,1856667.89,33827,Pós-Pandemia
+2022-06-01,Streaming,Centro-Oeste,2450461.27,65646,Pós-Pandemia
+2022-06-01,Streaming,Norte,1615928.22,31557,Pós-Pandemia
+2022-06-01,Shows,Sudeste,1136007.71,21118,Pós-Pandemia
+2022-06-01,Shows,Sul,928183.97,36258,Pós-Pandemia
+2022-06-01,Shows,Nordeste,1314074.37,34327,Pós-Pandemia
+2022-06-01,Shows,Centro-Oeste,1208104.77,27557,Pós-Pandemia
+2022-06-01,Shows,Norte,1061474.4,26780,Pós-Pandemia
+2022-06-01,Parques,Sudeste,774557.05,18453,Pós-Pandemia
+2022-06-01,Parques,Sul,710312.47,23085,Pós-Pandemia
+2022-06-01,Parques,Nordeste,628701.93,14306,Pós-Pandemia
+2022-06-01,Parques,Centro-Oeste,551814.24,11415,Pós-Pandemia
+2022-06-01,Parques,Norte,737656.07,18206,Pós-Pandemia
+2022-06-01,Jogos Online,Sudeste,1128190.08,20902,Pós-Pandemia
+2022-06-01,Jogos Online,Sul,1529883.12,35222,Pós-Pandemia
+2022-06-01,Jogos Online,Nordeste,1466250.8,31211,Pós-Pandemia
+2022-06-01,Jogos Online,Centro-Oeste,1118460.56,43708,Pós-Pandemia
+2022-06-01,Jogos Online,Norte,1129430.82,22696,Pós-Pandemia
+2022-07-01,Cinema,Sudeste,1170677.42,34163,Pós-Pandemia
+2022-07-01,Cinema,Sul,1170432.54,24305,Pós-Pandemia
+2022-07-01,Cinema,Nordeste,1432822.81,29398,Pós-Pandemia
+2022-07-01,Cinema,Centro-Oeste,935072.49,31700,Pós-Pandemia
+2022-07-01,Cinema,Norte,1056570.76,36070,Pós-Pandemia
+2022-07-01,Streaming,Sudeste,1580658.8,38309,Pós-Pandemia
+2022-07-01,Streaming,Sul,2122903.75,53665,Pós-Pandemia
+2022-07-01,Streaming,Nordeste,1738606.62,32274,Pós-Pandemia
+2022-07-01,Streaming,Centro-Oeste,1855992.33,34137,Pós-Pandemia
+2022-07-01,Streaming,Norte,1926157.28,69576,Pós-Pandemia
+2022-07-01,Shows,Sudeste,1240820.33,24214,Pós-Pandemia
+2022-07-01,Shows,Sul,1125114.27,35148,Pós-Pandemia
+2022-07-01,Shows,Nordeste,1493561.64,34890,Pós-Pandemia
+2022-07-01,Shows,Centro-Oeste,873663.76,21741,Pós-Pandemia
+2022-07-01,Shows,Norte,1155425.39,22904,Pós-Pandemia
+2022-07-01,Parques,Sudeste,714545.73,20416,Pós-Pandemia
+2022-07-01,Parques,Sul,682054.06,24182,Pós-Pandemia
+2022-07-01,Parques,Nordeste,535729.98,20562,Pós-Pandemia
+2022-07-01,Parques,Centro-Oeste,742060.53,20431,Pós-Pandemia
+2022-07-01,Parques,Norte,782753.4,30535,Pós-Pandemia
+2022-07-01,Jogos Online,Sudeste,1261800.28,47493,Pós-Pandemia
+2022-07-01,Jogos Online,Sul,1302583.57,24965,Pós-Pandemia
+2022-07-01,Jogos Online,Nordeste,1349458.18,24854,Pós-Pandemia
+2022-07-01,Jogos Online,Centro-Oeste,1482790.17,27121,Pós-Pandemia
+2022-07-01,Jogos Online,Norte,1262077.08,25721,Pós-Pandemia
+2022-08-01,Cinema,Sudeste,1334369.54,27980,Pós-Pandemia
+2022-08-01,Cinema,Sul,1516868.81,34379,Pós-Pandemia
+2022-08-01,Cinema,Nordeste,1570616.98,52278,Pós-Pandemia
+2022-08-01,Cinema,Centro-Oeste,1301116.82,49081,Pós-Pandemia
+2022-08-01,Cinema,Norte,921330.92,18396,Pós-Pandemia
+2022-08-01,Streaming,Sudeste,1784829.07,47951,Pós-Pandemia
+2022-08-01,Streaming,Sul,1344300.65,26836,Pós-Pandemia
+2022-08-01,Streaming,Nordeste,1796883.9,41978,Pós-Pandemia
+2022-08-01,Streaming,Centro-Oeste,1867372.75,55058,Pós-Pandemia
+2022-08-01,Streaming,Norte,1989499.99,43479,Pós-Pandemia
+2022-08-01,Shows,Sudeste,1475183.16,39788,Pós-Pandemia
+2022-08-01,Shows,Sul,938064.64,25307,Pós-Pandemia
+2022-08-01,Shows,Nordeste,1130423.54,23025,Pós-Pandemia
+2022-08-01,Shows,Centro-Oeste,1233640.11,40169,Pós-Pandemia
+2022-08-01,Shows,Norte,1403175.74,38226,Pós-Pandemia
+2022-08-01,Parques,Sudeste,661747.24,14929,Pós-Pandemia
+2022-08-01,Parques,Sul,774177.76,16397,Pós-Pandemia
+2022-08-01,Parques,Nordeste,610303.97,15683,Pós-Pandemia
+2022-08-01,Parques,Centro-Oeste,666504.77,14843,Pós-Pandemia
+2022-08-01,Parques,Norte,885727.58,17617,Pós-Pandemia
+2022-08-01,Jogos Online,Sudeste,1280969.91,24237,Pós-Pandemia
+2022-08-01,Jogos Online,Sul,1111607.69,22095,Pós-Pandemia
+2022-08-01,Jogos Online,Nordeste,1235912.94,29381,Pós-Pandemia
+2022-08-01,Jogos Online,Centro-Oeste,1070433.25,19989,Pós-Pandemia
+2022-08-01,Jogos Online,Norte,1188775.02,34612,Pós-Pandemia
+2022-09-01,Cinema,Sudeste,1370414.26,37767,Pós-Pandemia
+2022-09-01,Cinema,Sul,1298297.42,39243,Pós-Pandemia
+2022-09-01,Cinema,Nordeste,953677.6,21902,Pós-Pandemia
+2022-09-01,Cinema,Centro-Oeste,1509930.29,40523,Pós-Pandemia
+2022-09-01,Cinema,Norte,1264395.26,39153,Pós-Pandemia
+2022-09-01,Streaming,Sudeste,1535171.31,34609,Pós-Pandemia
+2022-09-01,Streaming,Sul,2536212.23,59136,Pós-Pandemia
+2022-09-01,Streaming,Nordeste,1874794.92,34685,Pós-Pandemia
+2022-09-01,Streaming,Centro-Oeste,1867295.04,57977,Pós-Pandemia
+2022-09-01,Streaming,Norte,1894312.09,37958,Pós-Pandemia
+2022-09-01,Shows,Sudeste,1149457.4,24333,Pós-Pandemia
+2022-09-01,Shows,Sul,1125144.74,34727,Pós-Pandemia
+2022-09-01,Shows,Nordeste,1259372.11,45556,Pós-Pandemia
+2022-09-01,Shows,Centro-Oeste,1291896.04,37032,Pós-Pandemia
+2022-09-01,Shows,Norte,1480838.78,55270,Pós-Pandemia
+2022-09-01,Parques,Sudeste,542990.74,15267,Pós-Pandemia
+2022-09-01,Parques,Sul,748621.28,15643,Pós-Pandemia
+2022-09-01,Parques,Nordeste,539810.88,18171,Pós-Pandemia
+2022-09-01,Parques,Centro-Oeste,802137.46,15591,Pós-Pandemia
+2022-09-01,Parques,Norte,572057.69,13992,Pós-Pandemia
+2022-09-01,Jogos Online,Sudeste,1362719.95,25205,Pós-Pandemia
+2022-09-01,Jogos Online,Sul,1495590.56,43214,Pós-Pandemia
+2022-09-01,Jogos Online,Nordeste,1004761.86,30487,Pós-Pandemia
+2022-09-01,Jogos Online,Centro-Oeste,1093550.77,40328,Pós-Pandemia
+2022-09-01,Jogos Online,Norte,1623756.9,34981,Pós-Pandemia
+2022-10-01,Cinema,Sudeste,1520338.12,38514,Pós-Pandemia
+2022-10-01,Cinema,Sul,1268231.54,33612,Pós-Pandemia
+2022-10-01,Cinema,Nordeste,1627293.72,56271,Pós-Pandemia
+2022-10-01,Cinema,Centro-Oeste,1012846.56,25816,Pós-Pandemia
+2022-10-01,Cinema,Norte,1204018.8,26465,Pós-Pandemia
+2022-10-01,Streaming,Sudeste,1876551.35,37263,Pós-Pandemia
+2022-10-01,Streaming,Sul,2488361.98,81300,Pós-Pandemia
+2022-10-01,Streaming,Nordeste,2545040.51,61122,Pós-Pandemia
+2022-10-01,Streaming,Centro-Oeste,2341270.98,45331,Pós-Pandemia
+2022-10-01,Streaming,Norte,1804409.83,45286,Pós-Pandemia
+2022-10-01,Shows,Sudeste,1121617.63,27589,Pós-Pandemia
+2022-10-01,Shows,Sul,1088288.33,22840,Pós-Pandemia
+2022-10-01,Shows,Nordeste,961310.79,26938,Pós-Pandemia
+2022-10-01,Shows,Centro-Oeste,919088.85,33598,Pós-Pandemia
+2022-10-01,Shows,Norte,1231959.31,29285,Pós-Pandemia
+2022-10-01,Parques,Sudeste,540668.48,13820,Pós-Pandemia
+2022-10-01,Parques,Sul,618843.79,12222,Pós-Pandemia
+2022-10-01,Parques,Nordeste,620076.55,15122,Pós-Pandemia
+2022-10-01,Parques,Centro-Oeste,566832.68,13790,Pós-Pandemia
+2022-10-01,Parques,Norte,589221.66,21002,Pós-Pandemia
+2022-10-01,Jogos Online,Sudeste,1188041.18,31944,Pós-Pandemia
+2022-10-01,Jogos Online,Sul,1557385.75,37369,Pós-Pandemia
+2022-10-01,Jogos Online,Nordeste,1379959.56,39270,Pós-Pandemia
+2022-10-01,Jogos Online,Centro-Oeste,1587755.19,39855,Pós-Pandemia
+2022-10-01,Jogos Online,Norte,1599788.63,31511,Pós-Pandemia
+2022-11-01,Cinema,Sudeste,1054183.95,32401,Pós-Pandemia
+2022-11-01,Cinema,Sul,1121032.63,23654,Pós-Pandemia
+2022-11-01,Cinema,Nordeste,1237356.42,34984,Pós-Pandemia
+2022-11-01,Cinema,Centro-Oeste,1489105.32,45684,Pós-Pandemia
+2022-11-01,Cinema,Norte,1200763.69,26204,Pós-Pandemia
+2022-11-01,Streaming,Sudeste,2051863.24,65069,Pós-Pandemia
+2022-11-01,Streaming,Sul,1991888.53,40432,Pós-Pandemia
+2022-11-01,Streaming,Nordeste,1933612.86,39032,Pós-Pandemia
+2022-11-01,Streaming,Centro-Oeste,1739997.56,37608,Pós-Pandemia
+2022-11-01,Streaming,Norte,1917092.04,56826,Pós-Pandemia
+2022-11-01,Shows,Sudeste,1134462.99,32302,Pós-Pandemia
+2022-11-01,Shows,Sul,1581115.4,44743,Pós-Pandemia
+2022-11-01,Shows,Nordeste,1660824.21,55117,Pós-Pandemia
+2022-11-01,Shows,Centro-Oeste,1472135.23,54078,Pós-Pandemia
+2022-11-01,Shows,Norte,916333.09,36591,Pós-Pandemia
+2022-11-01,Parques,Sudeste,711328.44,23876,Pós-Pandemia
+2022-11-01,Parques,Sul,676278.07,13147,Pós-Pandemia
+2022-11-01,Parques,Nordeste,673223.97,20026,Pós-Pandemia
+2022-11-01,Parques,Centro-Oeste,549134.11,13696,Pós-Pandemia
+2022-11-01,Parques,Norte,872611.21,21018,Pós-Pandemia
+2022-11-01,Jogos Online,Sudeste,1169320.63,21715,Pós-Pandemia
+2022-11-01,Jogos Online,Sul,980229.86,25179,Pós-Pandemia
+2022-11-01,Jogos Online,Nordeste,1124427.9,23319,Pós-Pandemia
+2022-11-01,Jogos Online,Centro-Oeste,996286.0,18807,Pós-Pandemia
+2022-11-01,Jogos Online,Norte,1812524.46,57617,Pós-Pandemia
+2022-12-01,Cinema,Sudeste,1659250.68,59965,Pós-Pandemia
+2022-12-01,Cinema,Sul,1341185.58,45034,Pós-Pandemia
+2022-12-01,Cinema,Nordeste,1728919.41,56118,Pós-Pandemia
+2022-12-01,Cinema,Centro-Oeste,1450886.31,27767,Pós-Pandemia
+2022-12-01,Cinema,Norte,1631208.33,37059,Pós-Pandemia
+2022-12-01,Streaming,Sudeste,2010158.52,54646,Pós-Pandemia
+2022-12-01,Streaming,Sul,2064525.57,58640,Pós-Pandemia
+2022-12-01,Streaming,Nordeste,1702085.23,35448,Pós-Pandemia
+2022-12-01,Streaming,Centro-Oeste,1594137.67,44596,Pós-Pandemia
+2022-12-01,Streaming,Norte,1836672.58,46203,Pós-Pandemia
+2022-12-01,Shows,Sudeste,857776.34,27682,Pós-Pandemia
+2022-12-01,Shows,Sul,1217156.96,24081,Pós-Pandemia
+2022-12-01,Shows,Nordeste,1310370.27,43415,Pós-Pandemia
+2022-12-01,Shows,Centro-Oeste,1028629.73,32855,Pós-Pandemia
+2022-12-01,Shows,Norte,1056551.05,23934,Pós-Pandemia
+2022-12-01,Parques,Sudeste,565231.07,16375,Pós-Pandemia
+2022-12-01,Parques,Sul,785727.82,29752,Pós-Pandemia
+2022-12-01,Parques,Nordeste,480692.8,10102,Pós-Pandemia
+2022-12-01,Parques,Centro-Oeste,748667.67,16520,Pós-Pandemia
+2022-12-01,Parques,Norte,672081.71,19799,Pós-Pandemia
+2022-12-01,Jogos Online,Sudeste,1126467.79,26166,Pós-Pandemia
+2022-12-01,Jogos Online,Sul,1602697.47,33294,Pós-Pandemia
+2022-12-01,Jogos Online,Nordeste,1659049.61,48658,Pós-Pandemia
+2022-12-01,Jogos Online,Centro-Oeste,1356959.79,42144,Pós-Pandemia
+2022-12-01,Jogos Online,Norte,1404250.24,32174,Pós-Pandemia
+2023-01-01,Cinema,Sudeste,1014859.88,24749,Pós-Pandemia
+2023-01-01,Cinema,Sul,957561.91,31145,Pós-Pandemia
+2023-01-01,Cinema,Nordeste,1403411.04,33800,Pós-Pandemia
+2023-01-01,Cinema,Centro-Oeste,1156765.7,21214,Pós-Pandemia
+2023-01-01,Cinema,Norte,1264998.32,32967,Pós-Pandemia
+2023-01-01,Streaming,Sudeste,1970583.16,53484,Pós-Pandemia
+2023-01-01,Streaming,Sul,1370915.38,44002,Pós-Pandemia
+2023-01-01,Streaming,Nordeste,2153821.65,75328,Pós-Pandemia
+2023-01-01,Streaming,Centro-Oeste,1772284.41,39112,Pós-Pandemia
+2023-01-01,Streaming,Norte,1451372.18,47605,Pós-Pandemia
+2023-01-01,Shows,Sudeste,1099277.19,26037,Pós-Pandemia
+2023-01-01,Shows,Sul,1279033.95,32360,Pós-Pandemia
+2023-01-01,Shows,Nordeste,1062851.71,38331,Pós-Pandemia
+2023-01-01,Shows,Centro-Oeste,1158057.98,44016,Pós-Pandemia
+2023-01-01,Shows,Norte,1008145.34,30689,Pós-Pandemia
+2023-01-01,Parques,Sudeste,817793.8,15563,Pós-Pandemia
+2023-01-01,Parques,Sul,626310.1,13682,Pós-Pandemia
+2023-01-01,Parques,Nordeste,644120.95,16323,Pós-Pandemia
+2023-01-01,Parques,Centro-Oeste,754826.59,16722,Pós-Pandemia
+2023-01-01,Parques,Norte,798629.12,27741,Pós-Pandemia
+2023-01-01,Jogos Online,Sudeste,1640092.78,34445,Pós-Pandemia
+2023-01-01,Jogos Online,Sul,1304554.7,25230,Pós-Pandemia
+2023-01-01,Jogos Online,Nordeste,1243069.54,26507,Pós-Pandemia
+2023-01-01,Jogos Online,Centro-Oeste,1230221.63,31750,Pós-Pandemia
+2023-01-01,Jogos Online,Norte,1358793.82,48694,Pós-Pandemia
+2023-02-01,Cinema,Sudeste,1129522.17,30293,Pós-Pandemia
+2023-02-01,Cinema,Sul,1333745.57,33295,Pós-Pandemia
+2023-02-01,Cinema,Nordeste,1487690.51,36063,Pós-Pandemia
+2023-02-01,Cinema,Centro-Oeste,947303.27,23360,Pós-Pandemia
+2023-02-01,Cinema,Norte,1049235.01,21483,Pós-Pandemia
+2023-02-01,Streaming,Sudeste,1785632.53,42543,Pós-Pandemia
+2023-02-01,Streaming,Sul,1875889.12,55063,Pós-Pandemia
+2023-02-01,Streaming,Nordeste,2153991.34,85208,Pós-Pandemia
+2023-02-01,Streaming,Centro-Oeste,1703248.0,33355,Pós-Pandemia
+2023-02-01,Streaming,Norte,1901776.66,56710,Pós-Pandemia
+2023-02-01,Shows,Sudeste,1568374.64,29914,Pós-Pandemia
+2023-02-01,Shows,Sul,910686.47,19538,Pós-Pandemia
+2023-02-01,Shows,Nordeste,1180043.88,43103,Pós-Pandemia
+2023-02-01,Shows,Centro-Oeste,1414063.22,31958,Pós-Pandemia
+2023-02-01,Shows,Norte,1522633.0,35262,Pós-Pandemia
+2023-02-01,Parques,Sudeste,690534.24,16701,Pós-Pandemia
+2023-02-01,Parques,Sul,600979.69,15106,Pós-Pandemia
+2023-02-01,Parques,Nordeste,693622.6,24025,Pós-Pandemia
+2023-02-01,Parques,Centro-Oeste,622964.73,18362,Pós-Pandemia
+2023-02-01,Parques,Norte,629753.91,23331,Pós-Pandemia
+2023-02-01,Jogos Online,Sudeste,1361047.94,33227,Pós-Pandemia
+2023-02-01,Jogos Online,Sul,1265175.44,41246,Pós-Pandemia
+2023-02-01,Jogos Online,Nordeste,1227022.24,38318,Pós-Pandemia
+2023-02-01,Jogos Online,Centro-Oeste,1449824.64,31645,Pós-Pandemia
+2023-02-01,Jogos Online,Norte,1386542.21,26053,Pós-Pandemia
+2023-03-01,Cinema,Sudeste,1323029.49,24254,Pós-Pandemia
+2023-03-01,Cinema,Sul,1499568.83,29701,Pós-Pandemia
+2023-03-01,Cinema,Nordeste,1469090.14,32484,Pós-Pandemia
+2023-03-01,Cinema,Centro-Oeste,1349554.71,36392,Pós-Pandemia
+2023-03-01,Cinema,Norte,1347128.77,29527,Pós-Pandemia
+2023-03-01,Streaming,Sudeste,1760180.49,68381,Pós-Pandemia
+2023-03-01,Streaming,Sul,2250495.15,49374,Pós-Pandemia
+2023-03-01,Streaming,Nordeste,1552405.34,49276,Pós-Pandemia
+2023-03-01,Streaming,Centro-Oeste,2173860.95,66633,Pós-Pandemia
+2023-03-01,Streaming,Norte,1594105.77,34338,Pós-Pandemia
+2023-03-01,Shows,Sudeste,1086665.21,38784,Pós-Pandemia
+2023-03-01,Shows,Sul,1122673.42,35855,Pós-Pandemia
+2023-03-01,Shows,Nordeste,902990.44,20440,Pós-Pandemia
+2023-03-01,Shows,Centro-Oeste,1298643.13,39737,Pós-Pandemia
+2023-03-01,Shows,Norte,1268126.46,24797,Pós-Pandemia
+2023-03-01,Parques,Sudeste,589167.8,16357,Pós-Pandemia
+2023-03-01,Parques,Sul,670170.48,15433,Pós-Pandemia
+2023-03-01,Parques,Nordeste,718507.44,18001,Pós-Pandemia
+2023-03-01,Parques,Centro-Oeste,553563.97,14497,Pós-Pandemia
+2023-03-01,Parques,Norte,666470.52,13539,Pós-Pandemia
+2023-03-01,Jogos Online,Sudeste,1223680.34,45026,Pós-Pandemia
+2023-03-01,Jogos Online,Sul,1239452.04,42897,Pós-Pandemia
+2023-03-01,Jogos Online,Nordeste,1579251.3,31517,Pós-Pandemia
+2023-03-01,Jogos Online,Centro-Oeste,1327345.29,41252,Pós-Pandemia
+2023-03-01,Jogos Online,Norte,1445697.64,40558,Pós-Pandemia
+2023-04-01,Cinema,Sudeste,1105454.17,38682,Pós-Pandemia
+2023-04-01,Cinema,Sul,1082447.55,29145,Pós-Pandemia
+2023-04-01,Cinema,Nordeste,1063615.96,40288,Pós-Pandemia
+2023-04-01,Cinema,Centro-Oeste,1349759.76,30089,Pós-Pandemia
+2023-04-01,Cinema,Norte,1273581.77,25824,Pós-Pandemia
+2023-04-01,Streaming,Sudeste,2344019.94,44566,Pós-Pandemia
+2023-04-01,Streaming,Sul,1826066.63,38533,Pós-Pandemia
+2023-04-01,Streaming,Nordeste,1848290.76,40934,Pós-Pandemia
+2023-04-01,Streaming,Centro-Oeste,1547961.79,32991,Pós-Pandemia
+2023-04-01,Streaming,Norte,1907616.61,66871,Pós-Pandemia
+2023-04-01,Shows,Sudeste,1030553.83,34011,Pós-Pandemia
+2023-04-01,Shows,Sul,1169280.16,33319,Pós-Pandemia
+2023-04-01,Shows,Nordeste,939284.5,24427,Pós-Pandemia
+2023-04-01,Shows,Centro-Oeste,1463758.74,49256,Pós-Pandemia
+2023-04-01,Shows,Norte,1476457.02,31070,Pós-Pandemia
+2023-04-01,Parques,Sudeste,634461.86,18232,Pós-Pandemia
+2023-04-01,Parques,Sul,632012.67,19221,Pós-Pandemia
+2023-04-01,Parques,Nordeste,609631.59,22440,Pós-Pandemia
+2023-04-01,Parques,Centro-Oeste,782929.95,17367,Pós-Pandemia
+2023-04-01,Parques,Norte,689250.25,19293,Pós-Pandemia
+2023-04-01,Jogos Online,Sudeste,1349149.11,32245,Pós-Pandemia
+2023-04-01,Jogos Online,Sul,1680581.67,61770,Pós-Pandemia
+2023-04-01,Jogos Online,Nordeste,1077301.96,22424,Pós-Pandemia
+2023-04-01,Jogos Online,Centro-Oeste,1250924.06,38255,Pós-Pandemia
+2023-04-01,Jogos Online,Norte,1301257.26,39056,Pós-Pandemia
+2023-05-01,Cinema,Sudeste,1217421.56,29247,Pós-Pandemia
+2023-05-01,Cinema,Sul,1246419.32,32443,Pós-Pandemia
+2023-05-01,Cinema,Nordeste,1292814.8,31061,Pós-Pandemia
+2023-05-01,Cinema,Centro-Oeste,1231578.57,32636,Pós-Pandemia
+2023-05-01,Cinema,Norte,1652537.17,59816,Pós-Pandemia
+2023-05-01,Streaming,Sudeste,2276051.24,76076,Pós-Pandemia
+2023-05-01,Streaming,Sul,1966070.18,57691,Pós-Pandemia
+2023-05-01,Streaming,Nordeste,1529269.71,32228,Pós-Pandemia
+2023-05-01,Streaming,Centro-Oeste,1807378.15,49186,Pós-Pandemia
+2023-05-01,Streaming,Norte,1700888.82,36523,Pós-Pandemia
+2023-05-01,Shows,Sudeste,874709.81,24828,Pós-Pandemia
+2023-05-01,Shows,Sul,1392089.3,54828,Pós-Pandemia
+2023-05-01,Shows,Nordeste,1160741.38,27991,Pós-Pandemia
+2023-05-01,Shows,Centro-Oeste,1495547.64,49959,Pós-Pandemia
+2023-05-01,Shows,Norte,905855.1,31830,Pós-Pandemia
+2023-05-01,Parques,Sudeste,535025.34,20042,Pós-Pandemia
+2023-05-01,Parques,Sul,780803.23,14964,Pós-Pandemia
+2023-05-01,Parques,Nordeste,626486.48,12356,Pós-Pandemia
+2023-05-01,Parques,Centro-Oeste,543332.51,17422,Pós-Pandemia
+2023-05-01,Parques,Norte,653311.62,12792,Pós-Pandemia
+2023-05-01,Jogos Online,Sudeste,1518693.34,30395,Pós-Pandemia
+2023-05-01,Jogos Online,Sul,1553633.83,45867,Pós-Pandemia
+2023-05-01,Jogos Online,Nordeste,981323.9,36809,Pós-Pandemia
+2023-05-01,Jogos Online,Centro-Oeste,1339782.77,37874,Pós-Pandemia
+2023-05-01,Jogos Online,Norte,1747608.94,42556,Pós-Pandemia
+2023-06-01,Cinema,Sudeste,1063682.82,27473,Pós-Pandemia
+2023-06-01,Cinema,Sul,1242366.65,36013,Pós-Pandemia
+2023-06-01,Cinema,Nordeste,1225451.49,24284,Pós-Pandemia
+2023-06-01,Cinema,Centro-Oeste,1215168.67,36741,Pós-Pandemia
+2023-06-01,Cinema,Norte,1352003.83,33999,Pós-Pandemia
+2023-06-01,Streaming,Sudeste,1673959.08,36857,Pós-Pandemia
+2023-06-01,Streaming,Sul,1457651.58,53223,Pós-Pandemia
+2023-06-01,Streaming,Nordeste,1532781.06,30869,Pós-Pandemia
+2023-06-01,Streaming,Centro-Oeste,1989637.74,46751,Pós-Pandemia
+2023-06-01,Streaming,Norte,1648240.58,45229,Pós-Pandemia
+2023-06-01,Shows,Sudeste,1545742.92,57467,Pós-Pandemia
+2023-06-01,Shows,Sul,1573235.62,53313,Pós-Pandemia
+2023-06-01,Shows,Nordeste,1154861.77,44539,Pós-Pandemia
+2023-06-01,Shows,Centro-Oeste,1225447.59,41055,Pós-Pandemia
+2023-06-01,Shows,Norte,1129614.4,24411,Pós-Pandemia
+2023-06-01,Parques,Sudeste,659594.23,13595,Pós-Pandemia
+2023-06-01,Parques,Sul,634127.45,18410,Pós-Pandemia
+2023-06-01,Parques,Nordeste,546557.87,11727,Pós-Pandemia
+2023-06-01,Parques,Centro-Oeste,745845.83,22794,Pós-Pandemia
+2023-06-01,Parques,Norte,575354.8,12698,Pós-Pandemia
+2023-06-01,Jogos Online,Sudeste,1486836.42,29586,Pós-Pandemia
+2023-06-01,Jogos Online,Sul,1296345.37,31825,Pós-Pandemia
+2023-06-01,Jogos Online,Nordeste,1233493.65,44102,Pós-Pandemia
+2023-06-01,Jogos Online,Centro-Oeste,1388248.28,52927,Pós-Pandemia
+2023-06-01,Jogos Online,Norte,1223020.32,41942,Pós-Pandemia
+2023-07-01,Cinema,Sudeste,1061951.23,30264,Pós-Pandemia
+2023-07-01,Cinema,Sul,1362888.91,45290,Pós-Pandemia
+2023-07-01,Cinema,Nordeste,1526505.8,40100,Pós-Pandemia
+2023-07-01,Cinema,Centro-Oeste,1290861.82,30333,Pós-Pandemia
+2023-07-01,Cinema,Norte,1024443.57,22519,Pós-Pandemia
+2023-07-01,Streaming,Sudeste,2528759.08,66026,Pós-Pandemia
+2023-07-01,Streaming,Sul,1949764.59,51011,Pós-Pandemia
+2023-07-01,Streaming,Nordeste,2378066.68,55135,Pós-Pandemia
+2023-07-01,Streaming,Centro-Oeste,1767352.85,32601,Pós-Pandemia
+2023-07-01,Streaming,Norte,1616857.21,39537,Pós-Pandemia
+2023-07-01,Shows,Sudeste,813387.24,28235,Pós-Pandemia
+2023-07-01,Shows,Sul,1274081.2,35188,Pós-Pandemia
+2023-07-01,Shows,Nordeste,1052606.44,36794,Pós-Pandemia
+2023-07-01,Shows,Centro-Oeste,1050028.65,19950,Pós-Pandemia
+2023-07-01,Shows,Norte,1431986.52,29313,Pós-Pandemia
+2023-07-01,Parques,Sudeste,754385.12,26194,Pós-Pandemia
+2023-07-01,Parques,Sul,673710.75,17689,Pós-Pandemia
+2023-07-01,Parques,Nordeste,693010.07,20598,Pós-Pandemia
+2023-07-01,Parques,Centro-Oeste,484622.72,17903,Pós-Pandemia
+2023-07-01,Parques,Norte,602660.13,16766,Pós-Pandemia
+2023-07-01,Jogos Online,Sudeste,1144553.68,25255,Pós-Pandemia
+2023-07-01,Jogos Online,Sul,1468038.29,40422,Pós-Pandemia
+2023-07-01,Jogos Online,Nordeste,1035377.48,34261,Pós-Pandemia
+2023-07-01,Jogos Online,Centro-Oeste,1330836.22,38686,Pós-Pandemia
+2023-07-01,Jogos Online,Norte,1272518.57,35849,Pós-Pandemia
+2023-08-01,Cinema,Sudeste,1143876.05,29668,Pós-Pandemia
+2023-08-01,Cinema,Sul,1573550.27,35866,Pós-Pandemia
+2023-08-01,Cinema,Nordeste,1043945.01,23156,Pós-Pandemia
+2023-08-01,Cinema,Centro-Oeste,1366849.63,53983,Pós-Pandemia
+2023-08-01,Cinema,Norte,1390736.84,28495,Pós-Pandemia
+2023-08-01,Streaming,Sudeste,1383512.93,30942,Pós-Pandemia
+2023-08-01,Streaming,Sul,1648561.27,38637,Pós-Pandemia
+2023-08-01,Streaming,Nordeste,1681957.94,47965,Pós-Pandemia
+2023-08-01,Streaming,Centro-Oeste,2108358.31,82555,Pós-Pandemia
+2023-08-01,Streaming,Norte,1687254.03,35049,Pós-Pandemia
+2023-08-01,Shows,Sudeste,1415688.88,43199,Pós-Pandemia
+2023-08-01,Shows,Sul,915797.33,24386,Pós-Pandemia
+2023-08-01,Shows,Nordeste,1044471.73,30756,Pós-Pandemia
+2023-08-01,Shows,Centro-Oeste,1479392.4,47443,Pós-Pandemia
+2023-08-01,Shows,Norte,1553728.28,39903,Pós-Pandemia
+2023-08-01,Parques,Sudeste,633967.61,11910,Pós-Pandemia
+2023-08-01,Parques,Sul,642760.16,16467,Pós-Pandemia
+2023-08-01,Parques,Nordeste,580010.32,11623,Pós-Pandemia
+2023-08-01,Parques,Centro-Oeste,536121.41,13100,Pós-Pandemia
+2023-08-01,Parques,Norte,561159.42,13851,Pós-Pandemia
+2023-08-01,Jogos Online,Sudeste,953459.79,25018,Pós-Pandemia
+2023-08-01,Jogos Online,Sul,1009801.63,23892,Pós-Pandemia
+2023-08-01,Jogos Online,Nordeste,1325630.85,33353,Pós-Pandemia
+2023-08-01,Jogos Online,Centro-Oeste,1125849.59,20935,Pós-Pandemia
+2023-08-01,Jogos Online,Norte,1452576.49,27047,Pós-Pandemia
+2023-09-01,Cinema,Sudeste,1126353.47,44854,Pós-Pandemia
+2023-09-01,Cinema,Sul,1089283.37,28245,Pós-Pandemia
+2023-09-01,Cinema,Nordeste,954609.6,22645,Pós-Pandemia
+2023-09-01,Cinema,Centro-Oeste,985736.55,18062,Pós-Pandemia
+2023-09-01,Cinema,Norte,1361241.65,25281,Pós-Pandemia
+2023-09-01,Streaming,Sudeste,1714403.52,54940,Pós-Pandemia
+2023-09-01,Streaming,Sul,2134146.08,74819,Pós-Pandemia
+2023-09-01,Streaming,Nordeste,2392565.42,81802,Pós-Pandemia
+2023-09-01,Streaming,Centro-Oeste,2140678.23,64651,Pós-Pandemia
+2023-09-01,Streaming,Norte,2053675.76,80669,Pós-Pandemia
+2023-09-01,Shows,Sudeste,1269066.25,46054,Pós-Pandemia
+2023-09-01,Shows,Sul,1661798.24,31376,Pós-Pandemia
+2023-09-01,Shows,Nordeste,875900.23,17763,Pós-Pandemia
+2023-09-01,Shows,Centro-Oeste,1689398.31,40544,Pós-Pandemia
+2023-09-01,Shows,Norte,1383580.73,46741,Pós-Pandemia
+2023-09-01,Parques,Sudeste,664248.06,14910,Pós-Pandemia
+2023-09-01,Parques,Sul,702209.96,18136,Pós-Pandemia
+2023-09-01,Parques,Nordeste,586268.26,22834,Pós-Pandemia
+2023-09-01,Parques,Centro-Oeste,558944.56,13400,Pós-Pandemia
+2023-09-01,Parques,Norte,566002.38,11024,Pós-Pandemia
+2023-09-01,Jogos Online,Sudeste,1251836.55,25500,Pós-Pandemia
+2023-09-01,Jogos Online,Sul,1159500.16,31006,Pós-Pandemia
+2023-09-01,Jogos Online,Nordeste,1615809.51,53653,Pós-Pandemia
+2023-09-01,Jogos Online,Centro-Oeste,1536110.43,29542,Pós-Pandemia
+2023-09-01,Jogos Online,Norte,1080356.38,21254,Pós-Pandemia
+2023-10-01,Cinema,Sudeste,981934.18,20435,Pós-Pandemia
+2023-10-01,Cinema,Sul,1600497.11,39624,Pós-Pandemia
+2023-10-01,Cinema,Nordeste,1481781.79,35891,Pós-Pandemia
+2023-10-01,Cinema,Centro-Oeste,1398700.87,27513,Pós-Pandemia
+2023-10-01,Cinema,Norte,1182418.61,23038,Pós-Pandemia
+2023-10-01,Streaming,Sudeste,2576330.66,47932,Pós-Pandemia
+2023-10-01,Streaming,Sul,1611239.29,31936,Pós-Pandemia
+2023-10-01,Streaming,Nordeste,2135296.9,47213,Pós-Pandemia
+2023-10-01,Streaming,Centro-Oeste,1817180.39,46943,Pós-Pandemia
+2023-10-01,Streaming,Norte,1800001.59,43811,Pós-Pandemia
+2023-10-01,Shows,Sudeste,882073.3,23596,Pós-Pandemia
+2023-10-01,Shows,Sul,1003315.91,33813,Pós-Pandemia
+2023-10-01,Shows,Nordeste,1182892.12,28322,Pós-Pandemia
+2023-10-01,Shows,Centro-Oeste,923634.65,23132,Pós-Pandemia
+2023-10-01,Shows,Norte,1131299.89,38591,Pós-Pandemia
+2023-10-01,Parques,Sudeste,708931.96,20567,Pós-Pandemia
+2023-10-01,Parques,Sul,582001.58,22948,Pós-Pandemia
+2023-10-01,Parques,Nordeste,701481.48,13276,Pós-Pandemia
+2023-10-01,Parques,Centro-Oeste,661899.92,16508,Pós-Pandemia
+2023-10-01,Parques,Norte,591583.2,11448,Pós-Pandemia
+2023-10-01,Jogos Online,Sudeste,1196321.99,25128,Pós-Pandemia
+2023-10-01,Jogos Online,Sul,1105482.98,30984,Pós-Pandemia
+2023-10-01,Jogos Online,Nordeste,1214442.6,22299,Pós-Pandemia
+2023-10-01,Jogos Online,Centro-Oeste,1300023.11,34251,Pós-Pandemia
+2023-10-01,Jogos Online,Norte,935120.5,33360,Pós-Pandemia
+2023-11-01,Cinema,Sudeste,1512226.39,47383,Pós-Pandemia
+2023-11-01,Cinema,Sul,1208496.7,23259,Pós-Pandemia
+2023-11-01,Cinema,Nordeste,975680.41,29891,Pós-Pandemia
+2023-11-01,Cinema,Centro-Oeste,1389857.05,43543,Pós-Pandemia
+2023-11-01,Cinema,Norte,1486612.08,35401,Pós-Pandemia
+2023-11-01,Streaming,Sudeste,2220884.55,83075,Pós-Pandemia
+2023-11-01,Streaming,Sul,2064219.28,71683,Pós-Pandemia
+2023-11-01,Streaming,Nordeste,2244657.52,44678,Pós-Pandemia
+2023-11-01,Streaming,Centro-Oeste,2009406.68,39891,Pós-Pandemia
+2023-11-01,Streaming,Norte,2081184.53,59011,Pós-Pandemia
+2023-11-01,Shows,Sudeste,940113.08,21122,Pós-Pandemia
+2023-11-01,Shows,Sul,1181546.59,29285,Pós-Pandemia
+2023-11-01,Shows,Nordeste,984803.29,23334,Pós-Pandemia
+2023-11-01,Shows,Centro-Oeste,1619806.29,36224,Pós-Pandemia
+2023-11-01,Shows,Norte,1508080.06,38223,Pós-Pandemia
+2023-11-01,Parques,Sudeste,679387.37,13721,Pós-Pandemia
+2023-11-01,Parques,Sul,725390.97,16311,Pós-Pandemia
+2023-11-01,Parques,Nordeste,820262.66,28908,Pós-Pandemia
+2023-11-01,Parques,Centro-Oeste,577927.05,22206,Pós-Pandemia
+2023-11-01,Parques,Norte,659985.24,23579,Pós-Pandemia
+2023-11-01,Jogos Online,Sudeste,902887.62,26048,Pós-Pandemia
+2023-11-01,Jogos Online,Sul,1665161.38,34936,Pós-Pandemia
+2023-11-01,Jogos Online,Nordeste,1578411.59,33606,Pós-Pandemia
+2023-11-01,Jogos Online,Centro-Oeste,1293864.87,25942,Pós-Pandemia
+2023-11-01,Jogos Online,Norte,1528789.63,51431,Pós-Pandemia
+2023-12-01,Cinema,Sudeste,1261441.44,39640,Pós-Pandemia
+2023-12-01,Cinema,Sul,1304516.55,35567,Pós-Pandemia
+2023-12-01,Cinema,Nordeste,1097380.07,21552,Pós-Pandemia
+2023-12-01,Cinema,Centro-Oeste,1583396.82,62934,Pós-Pandemia
+2023-12-01,Cinema,Norte,1361132.3,26902,Pós-Pandemia
+2023-12-01,Streaming,Sudeste,2057338.27,48117,Pós-Pandemia
+2023-12-01,Streaming,Sul,1788731.78,65308,Pós-Pandemia
+2023-12-01,Streaming,Nordeste,1824046.04,38283,Pós-Pandemia
+2023-12-01,Streaming,Centro-Oeste,1908403.54,35820,Pós-Pandemia
+2023-12-01,Streaming,Norte,1957602.6,57777,Pós-Pandemia
+2023-12-01,Shows,Sudeste,1665753.33,40867,Pós-Pandemia
+2023-12-01,Shows,Sul,1301920.03,32594,Pós-Pandemia
+2023-12-01,Shows,Nordeste,1024096.9,37613,Pós-Pandemia
+2023-12-01,Shows,Centro-Oeste,1124106.04,28423,Pós-Pandemia
+2023-12-01,Shows,Norte,1370631.47,36292,Pós-Pandemia
+2023-12-01,Parques,Sudeste,804973.88,28521,Pós-Pandemia
+2023-12-01,Parques,Sul,684339.86,20925,Pós-Pandemia
+2023-12-01,Parques,Nordeste,681649.71,13750,Pós-Pandemia
+2023-12-01,Parques,Centro-Oeste,775546.98,24349,Pós-Pandemia
+2023-12-01,Parques,Norte,712690.39,17759,Pós-Pandemia
+2023-12-01,Jogos Online,Sudeste,1286942.19,27065,Pós-Pandemia
+2023-12-01,Jogos Online,Sul,1585298.61,33962,Pós-Pandemia
+2023-12-01,Jogos Online,Nordeste,1322998.91,45391,Pós-Pandemia
+2023-12-01,Jogos Online,Centro-Oeste,1045583.09,26379,Pós-Pandemia
+2023-12-01,Jogos Online,Norte,1282999.72,35300,Pós-Pandemia
