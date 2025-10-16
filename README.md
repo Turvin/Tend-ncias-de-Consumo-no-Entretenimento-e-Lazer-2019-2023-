@@ -12,7 +12,7 @@ Este projeto analisa como a pandemia da COVID-19 impactou o consumo no setor de 
 - **Excel / CSVs públicos**
 
 ## 📈 Dashboard
-📷 Imagens do dashboard disponíveis em `dashboard`.
+📷 Imagens do dashboard disponíveis em Dashboard-1 e Dashboard-2.
 
 ## 💡 Principais Insights
 - Streaming cresceu +230% durante a pandemia.  
